@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <title>الفرق بين الحوكمة والامتثال</title>
+    <style>
+        body {
+            font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f9f9f9;
+            padding: 20px;
+            line-height: 1.8;
+        }
+        h1, h2, h3 {
+            color: #2b4a70;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+            background-color: #ffffff;
+        }
+        table, th, td {
+            border: 1px solid #ccc;
+        }
+        th, td {
+            padding: 12px;
+            text-align: right;
+        }
+        th {
+            background-color: #e6f2ff;
+        }
+        .section {
+            margin-bottom: 40px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Governance vs Compliance</h1>
+
+    <div class="section">
+        <h2>الحوكمة (Governance) يعني إيه؟</h2>
+        <p>
+            يعني الطريقة اللي بيتم بيها إدارة الشركة أو المؤسسة، إزاي بتتاخد القرارات، مين بيحاسب مين، وإزاي بيتأكدوا إن كل حاجة ماشية صح.
+            يعني كده ببساطة، هو النظام اللي بيمشي عليه الشغل علشان يكون منظم وشفاف.
+        </p>
+        <p><strong>مثال:</strong> الحوكمة بتحدد مثلاً مين ليه الحق يوقّع عقود كبيرة، أو إزاي نراجع أداء المديرين، أو إزاي نتأكد إن في رقابة كويسة على الفلوس.</p>
+    </div>
+
+    <div class="section">
+        <h2>الامتثال (Compliance) يعني إيه؟</h2>
+        <p>
+            ده معناه إن الشركة أو الناس اللي فيها بتلتزم بالقوانين والتعليمات اللي الدولة أو الجهات التنظيمية بتحطها.
+            يعني نلتزم بالقواعد، سواء كانت قوانين ضرائب، قوانين بيئة، أو حتى قوانين مكافحة الفساد.
+        </p>
+        <p><strong>مثال:</strong> الشركة لازم تدفع الضرائب في معادها، ولازم تقدم تقارير معينة للحكومة، ولازم تلتزم بقوانين حماية البيانات.</p>
+    </div>
+
+    <div class="section">
+        <h2>الفرق ببساطة:</h2>
+        <ul>
+            <li><strong>الحوكمة:</strong> بنحط النظام والقواعد اللي نمشي عليها جوه الشركة.</li>
+            <li><strong>الامتثال:</strong> بنتأكد إننا ماشيين على القوانين اللي جاية من بره الشركة.</li>
+        </ul>
+    </div>
+
+    <h2>Governance and Compliance in Azure</h2>
+
+    <div class="section">
+        <h3>أولاً: الحوكمة في Azure (Azure Governance)</h3>
+        <p>الـ Governance في Azure معناها إزاي تنظم وتتحكم في استخدام الموارد بتاعتك على الكلاود.</p>
+
+        <h4>أدوات الحوكمة في Azure:</h4>
+        <ul>
+            <li><strong>Azure Policy:</strong> بتحط قواعد تقول مثلاً "محدش يقدر يعمل VM في Region غير أوروبا".</li>
+            <li><strong>Management Groups & Subscriptions:</strong> لتقسيم وتنظيم الشغل.</li>
+            <li><strong>Role-Based Access Control (RBAC):</strong> لتحديد صلاحيات كل حد.</li>
+            <li><strong>Azure Blueprints:</strong> قوالب جاهزة بتساعد في توحيد الإعدادات.</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h3>ثانياً: الامتثال في Azure (Azure Compliance)</h3>
+        <p>الامتثال هنا معناه إن Azure نفسها متوافقة مع قوانين ومعايير عالمية.</p>
+
+        <h4>أمثلة على المعايير اللي Azure ملتزم بيها:</h4>
+        <ul>
+            <li>ISO 27001</li>
+            <li>GDPR</li>
+            <li>HIPAA</li>
+            <li>SOC 1, 2, 3</li>
+        </ul>
+        <p>وفي أدوات مهمة زي <strong>Microsoft Trust Center</strong> و <strong>Compliance Manager</strong> علشان تساعدك تتابع امتثالك.</p>
+    </div>
+
+    <div class="section">
+        <h3>الفرق بينهم في Azure ببساطة:</h3>
+        <table>
+            <tr>
+                <th>العنصر</th>
+                <th>الحوكمة (Governance)</th>
+                <th>الامتثال (Compliance)</th>
+            </tr>
+            <tr>
+                <td>من ناحيتك</td>
+                <td>إنت اللي بتظبط القوانين الداخلية لإدارة الموارد</td>
+                <td>إنت بتتأكد إنك شغال في بيئة تلتزم بالقوانين</td>
+            </tr>
+            <tr>
+                <td>الأدوات</td>
+                <td>Azure Policy, RBAC, Blueprints</td>
+                <td>Compliance Manager, Trust Center</td>
+            </tr>
+            <tr>
+                <td>الهدف</td>
+                <td>تنظيم وإدارة الموارد والمستخدمين</td>
+                <td>احترام القوانين والتشريعات الخارجية</td>
+            </tr>
+        </table>
+    </div>
+
+</body>
+</html>
