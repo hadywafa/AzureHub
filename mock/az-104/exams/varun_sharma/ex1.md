@@ -83,7 +83,7 @@ To cater to three administrators, you must create three distinct actions within 
 
 **Answer:**
 
-**A record:** points the domain (**www.cloudfinanceportal.com**) to the specific IP address where your Azure Web App is hosted. Make sure the IP address you provide is the correct public IP address of your Azure Web app.
+**A record:** points the domain (**<www.cloudfinanceportal.com>**) to the specific IP address where your Azure Web App is hosted. Make sure the IP address you provide is the correct public IP address of your Azure Web app.
 
 **The CNAME record:** allows you to alias one domain name to another.
 
