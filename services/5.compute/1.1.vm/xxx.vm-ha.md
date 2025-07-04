@@ -18,7 +18,10 @@ Azure provides several robust features to maximize the availability of your VMs.
 Group multiple VMs within a single Azure data center to protect against hardware and software failures.
 
 **Components:**
-![Availability Set Diagram](images/vm-availability-set-1.png)
+
+<div align="center">
+  <img src="images/vm-availability-set-1.png" alt="Availability Set Diagram" style="width: 80%; border-radius: 10px;">
+</div>
 
 - **Fault Domains (FD):**
 
@@ -40,7 +43,9 @@ Group multiple VMs within a single Azure data center to protect against hardware
 
 **Example1:**
 
-![Fault and Update Domains](images/vm-availability-set-2.png)
+<div align="center">
+  <img src="images/vm-availability-set-2.png" alt="Fault and Update Domains" style="width: 80%; border-radius: 10px;">
+</div>
 
 **Example2:**
 
@@ -65,7 +70,9 @@ Ideal for multi-tier applications where different roles (e.g., web servers, data
 
 ### **2. Availability Zones** 🏞️🌐
 
-![Availability Zone Diagram](images/vm-az.png)
+<div align="center">
+  <img src="images/vm-az.png" alt="Availability Zone Diagram" style="width: 80%; border-radius: 10px;">
+</div>
 
 **Purpose:**  
 Distribute VMs across multiple, physically separate locations within an Azure region to achieve higher redundancy and fault tolerance.
@@ -92,7 +99,9 @@ Best suited for mission-critical applications that require maximum uptime and re
 
 ### **3. Proximity Placement Groups (PPG)** 🗺️🔍
 
-![Proximity Placement Group Diagram](images/vm-plg.png)
+<div align="center">
+  <img src="images/vm-plg.png" alt="Proximity Placement Group Diagram" style="width: 80%; border-radius: 10px;">
+</div>
 
 **Purpose:**  
 Keep Azure VMs physically close to each other within the same datacenter to reduce network latency and increase throughput.
