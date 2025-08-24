@@ -1,10 +1,10 @@
-# Practice Test 1 : Azure Administrator - Az-104 - Results
+# Practice Test 1
 
 ## Wrong Questions
 
 ### Q2
 
-![alt text](images/ex1-q2.png)
+![alt text](image/practise-test-1//ex1-q2.png)
 
 **Answer:**
 
@@ -15,7 +15,7 @@ Soft delete is enabled by default on newly created vaults to protect backup data
 
 ### Q5
 
-![alt text](images/ex1-q5.png)
+![alt text](image/practise-test-1//ex1-q5.png)
 
 **Answer:**
 
@@ -23,17 +23,17 @@ Soft delete is enabled by default on newly created vaults to protect backup data
 
 ### Q11
 
-![alt text](images/ex1-q11.png)
+![alt text](image/practise-test-1//ex1-q11.png)
 
 **Answer:**
 
-![alt text](images/ex1-q11-1.png)
+![alt text](image/practise-test-1//ex1-q11-1.png)
 
 [https://learn.microsoft.com/en-us/azure/backup/backup-azure-enhanced-soft-delete-configure-manage?tabs=recovery-services-vault](https://learn.microsoft.com/en-us/azure/backup/backup-azure-enhanced-soft-delete-configure-manage?tabs=recovery-services-vault)
 
 ## Q14
 
-![alt text](images/ex1-q14.png)
+![alt text](image/practise-test-1//ex1-q14.png)
 
 **Answer:**
 
@@ -43,11 +43,11 @@ We can enable encryption on a running IaaS virtual machine in Azure.
 
 ### Q25
 
-![alt text](images/ex1-q25.png)
+![alt text](image/practise-test-1//ex1-q25.png)
 
 ### Q27
 
-![alt text](images/ex1-q27.png)
+![alt text](image/practise-test-1//ex1-q27.png)
 
 **Answer:**
 
@@ -59,7 +59,7 @@ We can enable encryption on a running IaaS virtual machine in Azure.
 
 ### Q28
 
-![alt text](images/ex1-q28.png)
+![alt text](image/practise-test-1//ex1-q28.png)
 
 **Answer:**
 
@@ -67,7 +67,7 @@ We can enable encryption on a running IaaS virtual machine in Azure.
 
 ## Q37
 
-![alt text](images/ex1-q37.png)
+![alt text](image/practise-test-1//ex1-q37.png)
 
 **Answer:**
 
@@ -79,7 +79,7 @@ To cater to three administrators, you must create three distinct actions within 
 
 ## Q39
 
-![alt text](images/ex1-q39.png)
+![alt text](image/practise-test-1//ex1-q39.png)
 
 **Answer:**
 
@@ -91,7 +91,7 @@ To cater to three administrators, you must create three distinct actions within 
 
 ## Q50
 
-![alt text](images/ex1-q50.png)
+![alt text](image/practise-test-1//ex1-q50.png)
 
 **Answer:**
 
