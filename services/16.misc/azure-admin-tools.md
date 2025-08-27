@@ -1,8 +1,14 @@
 # Azure Administrator Tools
 
-![Azure Administrator Tools](images/az-tools.png)
-
 Managing an Azure environment is like being the conductor of a large orchestra. To ensure everything runs smoothly, you need the right tools to manage, automate, and monitor your resources effectively. **Azure Administrator Tools** are the essential instruments that help Azure administrators orchestrate their cloud infrastructure efficiently. This guide explores four key tools: **Azure Portal**, **Azure Cloud Shell**, **Azure PowerShell**, and **Azure CLI**, providing examples and best practices for each.
+
+---
+
+<div align="center">
+  <img src="image/azure-admin-tools/az-tools.png" alt="Azure Administrator Tools" style="border-radius: 10px; width: 80%; border: 2px solid white;">
+</div>
+
+---
 
 ## 1. Azure Portal
 
@@ -124,7 +130,7 @@ The **Azure CLI** (Command-Line Interface) is a cross-platform command-line tool
 
 1. **Install Azure CLI:**
 
-   - Download and install Azure CLI from [here](https://docs.microsoft.com/cli/azure/install-azure-cli).
+   - Download and install Azure CLI from [click me here](https://docs.microsoft.com/cli/azure/install-azure-cli).
 
 2. **Sign In to Azure:**
 
