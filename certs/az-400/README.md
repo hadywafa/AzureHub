@@ -9,7 +9,7 @@ The "Microsoft DevOps Engineer (AZ-400)" course by James Lee is structured into 
 1. **👉🏻 Design and Implement Testing**: 1 hour and 31 minutes
 1. **✅ Managing Application Infrastructure**: 1 hour and 46 minutes
 1. **✅ Design and Implement Deployments**: 50 minutes
-1. **📌 Design and Implement Security and Compliance**: 1 hour and 41 minutes
+1. **✅ Design and Implement Security and Compliance**: 1 hour and 41 minutes
 1. **✅ Optimize and Manage Source Control**: 1 hour and 2 minutes
 1. **✅ Optimize and Manage Pipelines**: 1 hour and 5 minutes
 1. **📌 Monitoring and Instrumentation**: 1 hour and 22 minutes
