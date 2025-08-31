@@ -1,4 +1,4 @@
-# Practice Test 1
+# 📋 Practice Test 1
 
 ## ⁉️ Q5
 
@@ -121,6 +121,203 @@
 > Reference:
 >
 > <https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/itsmc-overview>
+
+---
+
+## ⁉️ Q26
+
+<div align="left">
+  <img src="image/practise-test-1/1756669650941.png" alt="1756669650941" style="width: 40%; border-radius: 10px; border: 2px solid white;">
+</div>
+
+---
+
+### 📝 The Question (rephrased)
+
+You are managing **Azure DevOps** responsibilities, specifically around **user and license management**.
+The question asks: _Which task is **NOT suitable for automation**?_
+
+### ✅ the answer:
+
+**License procurement!**
+
+### 🤔 Why This Is the Best Answer:
+
+- **License procurement** means **buying new licenses** (e.g., purchasing more Azure DevOps Basic licenses, Test Plans, or Visual Studio subscriptions).
+- This requires **financial approval and manual purchase** through billing systems (Azure Portal / Microsoft Admin Center).
+- Since it involves money, contracts, and billing, it is **not automatable** in Azure DevOps.
+
+### ❌ Why Other Options Are Wrong:
+
+- **Assigning entitlements**:
+
+  - Entitlements = what access level a user has (e.g., Basic, Stakeholder, VS Subscriber).
+  - You can automate entitlement assignment using **Azure DevOps REST API** or **Azure CLI**.
+  - Example: When a new dev joins, a script can auto-assign them a “Basic” license.
+
+- **Group membership changes**:
+
+  - Group memberships control permissions (e.g., adding a user to “Contributors” or “Project Administrators”).
+  - These can also be automated using REST APIs or scripts.
+  - Example: New hire automation → Add user to “Dev Team” group.
+
+- **License assignment**:
+
+  - This is **different from procurement**.
+  - Procurement = buy the license.
+  - Assignment = give an already purchased license to a user.
+  - Assignments **can be automated** using APIs.
+
+### 🎯 Mini Memory Hook
+
+- **Procurement = \$\$\$ → manual**
+- **Assignment = automation possible**
+- **Entitlements = automation possible**
+- **Groups = automation possible**
+
+---
+
+## ⁉️ Q27
+
+<div align="left">
+  <img src="image/practise-test-1/1756669831190.png" alt="1756669831190" style="width: 40%; border-radius: 10px; border: 2px solid white;">
+</div>
+
+---
+
+> 👉🏻 **Explanation**
+>
+> **🤔 Why This Is the Best Answer:**
+>
+> - The requirement is **dynamic security scanning** → which means scanning a **running web application** for vulnerabilities (SQL injection, XSS, misconfigurations, etc.).
+> - **OWASP ZAP (Zed Attack Proxy)** is an **open-source DAST (Dynamic Application Security Testing)** tool.
+> - It integrates with CI/CD pipelines to automatically test deployed apps, simulate attacks, and detect vulnerabilities at runtime.
+> - Perfect match for "dynamic security scanning against a running app."
+>
+> ---
+>
+> **❌ Why Other Options Are Wrong:**
+>
+> - **Mend Bolt**:
+>
+>   - A tool for **SCA (Software Composition Analysis)** → scans dependencies and open-source libraries for known vulnerabilities.
+>   - This is **static dependency scanning**, not dynamic runtime testing.
+>
+> - **SonarQube**:
+>
+>   - A tool for **SAST (Static Application Security Testing)** + code quality.
+>   - Scans **source code** for bugs, code smells, and security vulnerabilities **before build**.
+>   - Not used for scanning **live running applications**.
+
+---
+
+## ⁉️ Q29
+
+<div align="left">
+  <img src="image/practise-test-1/1756670276979.png" alt="1756670276979" style="width: 40%; border-radius: 10px; border: 2px solid white;">
+</div>
+
+---
+
+> 👉🏻 **Explanation**  
+> In the CI/CD process, validation initiates prior to developers committing their code. The initial layer of defense is offered by static code analysis tools integrated into the IDE, which aids in preventing the introduction of security vulnerabilities into the CI/CD pipeline.
+>
+> <https://learn.microsoft.com/en-us/azure/devops/pipelines/security/overview?view=azure-devops&viewFallbackFrom=vsts>
+
+---
+
+## ⁉️ Q30
+
+<div align="left">
+  <img src="image/practise-test-1/1756670951636.png" alt="1756670951636" style="width: 40%; border-radius: 10px; border: 2px solid white;">
+</div>
+
+---
+
+> 👉🏻 **Explanation**
+>
+> <https://learn.microsoft.com/en-us/azure/devops/service-hooks/overview?view=azure-devops>
+
+---
+
+## ⁉️ Q32
+
+<div align="left">
+  <img src="image/practise-test-1/1756671693141.png" alt="1756671693141" style="width: 40%; border-radius: 10px; border: 2px solid white;">
+</div>
+
+---
+
+> 👉🏻 **Explanation**  
+> Cycle time measures the time it takes for your team to complete work items once they begin actively working on them.
+>
+> Reference:
+>
+> <https://learn.microsoft.com/en-us/azure/devops/report/dashboards/cycle-time-and-lead-time?view=azure-devops&viewFallbackFrom=vsts>
+
+---
+
+## ⁉️ Q33
+
+<div align="left">
+  <img src="image/practise-test-1/1756675463592.png" alt="1756675463592" style="width: 40%; border-radius: 10px; border: 2px solid white;">
+</div>
+
+---
+
+> 👉🏻 **Explanation**  
+> Reference:
+>
+> <https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-cloud-introduction>
+
+## ⁉️ Q35
+
+<div align="left">
+  <img src="image/practise-test-1/1756675627856.png" alt="1756675627856" style="width: 40%; border-radius: 10px; border: 2px solid white;">
+</div>
+
+---
+
+> 👉🏻 **Explanation**  
+> The "Exploratory Testing" extension is now "Test & Feedback" and is now Generally Available.Anyone can now test web apps and give feedback, all directly from the browser on any platform: Windows, Mac, or Linux. Available for Google Chrome and Mozilla Firefox (required version 50.0 or above) currently. Support for Microsoft Edge is in the pipeline and will be enabled once Edge moves to a Chromium- compatible web platform.
+>
+> Reference:
+>
+> <https://marketplace.visualstudio.com/items?itemName=ms.vss-exploratorytesting-web>
+
+---
+
+## ⁉️ Q36
+
+<div align="left">
+  <img src="image/practise-test-1/1756675716739.png" alt="1756675716739" style="width: 40%; border-radius: 10px; border: 2px solid white;">
+</div>
+
+---
+
+> 👉🏻 **Explanation**  
+> You could use deployment rings. This technique, also known as canary deployment, allows you to gradually expose the new version of the application only to some users. This exposure can be controlled at the load balancing layer, using application settings or during application runtime.
+>
+> You could use feature flags. Feature flags are used to turn application features on or off. They are either flags controlled via application configuration or as an opt-in feature individually by users. They are generally used to test experimental features with a limited number of users or to disable application features without a new deployment.
+
+---
+
+## ⁉️ Q39
+
+<div align="left">
+  <img src="image/practise-test-1/1756676645159.png" alt="1756676645159" style="width: 40%; border-radius: 10px; border: 2px solid white;">
+</div>
+
+---
+
+> 👉🏻 **Explanation**  
+> Choose CMMI when your team follows more formal project methods that require a framework for process improvement and an auditable record of decisions. With this process, you can track requirements, change requests, risks, and reviews. Incorrect Answers: A. Choose Basic when your team wants the simplest model that uses Issues, Tasks, and Epics to track work. B. This process works great if you want to track user stories and (optionally) bugs on the Kanban board, or track bugs and tasks on the taskboard. C. This process works great if you want to track product backlog items (PBIs) and bugs on the Kanban board, or break PBIs and bugs down into tasks on the taskboard.
+>
+> Reference:
+>
+> <https://learn.microsoft.com/en-us/azure/devops/boards/work-items/guidance/choose-process?view=azure-devops&tabs=agile-process>
+
+---
 
 ## 📒 **Notes Questions**
 
