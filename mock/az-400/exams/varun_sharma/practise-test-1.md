@@ -96,6 +96,32 @@
 >
 > <https://learn.microsoft.com/en-us/azure/governance/policy/assign-policy-powershell>
 
+## ⁉️ Q23
+
+<div align="left">
+  <img src="image/practise-test-1/1756667201330.png" alt="1756667201330" style="width: 40%; border-radius: 10px; border: 2px solid white;">
+</div>
+
+---
+
+> 👉🏻 **Explanation**
+>
+> The IT Service Management Connector (ITSMC) allows you to connect Azure and a supported IT Service Management (ITSM) product/service. ITSMC supports connections with the following ITSM tools:
+>
+> ServiceNow
+>
+> System Center Service Manager
+>
+> Provance
+>
+> Cherwell
+>
+> With ITSMC, you can - Create work items in ITSM tool, based on your Azure alerts (metric alerts, Activity Log alerts and Log Analytics alerts). Optionally, you can sync your incident and change request data from your ITSM tool to an Azure Log Analytics workspace.
+>
+> Reference:
+>
+> <https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/itsmc-overview>
+
 ## 📒 **Notes Questions**
 
 - Review logs query
