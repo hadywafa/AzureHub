@@ -3,7 +3,7 @@
 ## ⁉️ Q5
 
 <div align="left">
-  <img src="image/practise-test-1/1756635089893.png" alt="1756635089893" style="width: 40%; border-radius: 10px; border: 2px solid white;">
+  <img src="image/practice-test-1/1756635089893.png" alt="1756635089893" style="width: 40%; border-radius: 10px; border: 2px solid white;">
 </div>
 
 ---
@@ -21,7 +21,7 @@
 ## ⁉️ Q10
 
 <div align="left">
-  <img src="image/practise-test-1/1756636403955.png" alt="1756636403955" style="width: 40%; border-radius: 10px; border: 2px solid white;">
+  <img src="image/practice-test-1/1756636403955.png" alt="1756636403955" style="width: 40%; border-radius: 10px; border: 2px solid white;">
 </div>
 
 ---
@@ -38,7 +38,7 @@
 ## ⁉️ Q12
 
 <div align="left">
-  <img src="image/practise-test-1/1756639978026.png" alt="1756639978026" style="width: 40%; border-radius: 10px; border: 2px solid white;">
+  <img src="image/practice-test-1/1756639978026.png" alt="1756639978026" style="width: 40%; border-radius: 10px; border: 2px solid white;">
 </div>
 
 ---
@@ -56,7 +56,7 @@
 ## ⁉️ Q19
 
 <div align="left">
-  <img src="image/practise-test-1/1756654168147.png" alt="1756654168147" style="width: 40%; border-radius: 10px; border: 2px solid white;">
+  <img src="image/practice-test-1/1756654168147.png" alt="1756654168147" style="width: 40%; border-radius: 10px; border: 2px solid white;">
 </div>
 
 ---
@@ -87,7 +87,7 @@
 ## ⁉️ Q20
 
 <div align="left">
-  <img src="image/practise-test-1/1756654301163.png" alt="1756654301163" style="width: 40%; border-radius: 10px; border: 2px solid white;">
+  <img src="image/practice-test-1/1756654301163.png" alt="1756654301163" style="width: 40%; border-radius: 10px; border: 2px solid white;">
 </div>
 
 ---
@@ -99,7 +99,7 @@
 ## ⁉️ Q23
 
 <div align="left">
-  <img src="image/practise-test-1/1756667201330.png" alt="1756667201330" style="width: 40%; border-radius: 10px; border: 2px solid white;">
+  <img src="image/practice-test-1/1756667201330.png" alt="1756667201330" style="width: 40%; border-radius: 10px; border: 2px solid white;">
 </div>
 
 ---
@@ -127,7 +127,7 @@
 ## ⁉️ Q26
 
 <div align="left">
-  <img src="image/practise-test-1/1756669650941.png" alt="1756669650941" style="width: 40%; border-radius: 10px; border: 2px solid white;">
+  <img src="image/practice-test-1/1756669650941.png" alt="1756669650941" style="width: 40%; border-radius: 10px; border: 2px solid white;">
 </div>
 
 ---
@@ -180,7 +180,7 @@ The question asks: _Which task is **NOT suitable for automation**?_
 ## ⁉️ Q27
 
 <div align="left">
-  <img src="image/practise-test-1/1756669831190.png" alt="1756669831190" style="width: 40%; border-radius: 10px; border: 2px solid white;">
+  <img src="image/practice-test-1/1756669831190.png" alt="1756669831190" style="width: 40%; border-radius: 10px; border: 2px solid white;">
 </div>
 
 ---
@@ -214,7 +214,7 @@ The question asks: _Which task is **NOT suitable for automation**?_
 ## ⁉️ Q29
 
 <div align="left">
-  <img src="image/practise-test-1/1756670276979.png" alt="1756670276979" style="width: 40%; border-radius: 10px; border: 2px solid white;">
+  <img src="image/practice-test-1/1756670276979.png" alt="1756670276979" style="width: 40%; border-radius: 10px; border: 2px solid white;">
 </div>
 
 ---
@@ -229,7 +229,7 @@ The question asks: _Which task is **NOT suitable for automation**?_
 ## ⁉️ Q30
 
 <div align="left">
-  <img src="image/practise-test-1/1756670951636.png" alt="1756670951636" style="width: 40%; border-radius: 10px; border: 2px solid white;">
+  <img src="image/practice-test-1/1756670951636.png" alt="1756670951636" style="width: 40%; border-radius: 10px; border: 2px solid white;">
 </div>
 
 ---
@@ -243,7 +243,7 @@ The question asks: _Which task is **NOT suitable for automation**?_
 ## ⁉️ Q32
 
 <div align="left">
-  <img src="image/practise-test-1/1756671693141.png" alt="1756671693141" style="width: 40%; border-radius: 10px; border: 2px solid white;">
+  <img src="image/practice-test-1/1756671693141.png" alt="1756671693141" style="width: 40%; border-radius: 10px; border: 2px solid white;">
 </div>
 
 ---
@@ -260,7 +260,7 @@ The question asks: _Which task is **NOT suitable for automation**?_
 ## ⁉️ Q33
 
 <div align="left">
-  <img src="image/practise-test-1/1756675463592.png" alt="1756675463592" style="width: 40%; border-radius: 10px; border: 2px solid white;">
+  <img src="image/practice-test-1/1756675463592.png" alt="1756675463592" style="width: 40%; border-radius: 10px; border: 2px solid white;">
 </div>
 
 ---
@@ -273,7 +273,7 @@ The question asks: _Which task is **NOT suitable for automation**?_
 ## ⁉️ Q35
 
 <div align="left">
-  <img src="image/practise-test-1/1756675627856.png" alt="1756675627856" style="width: 40%; border-radius: 10px; border: 2px solid white;">
+  <img src="image/practice-test-1/1756675627856.png" alt="1756675627856" style="width: 40%; border-radius: 10px; border: 2px solid white;">
 </div>
 
 ---
@@ -290,7 +290,7 @@ The question asks: _Which task is **NOT suitable for automation**?_
 ## ⁉️ Q36
 
 <div align="left">
-  <img src="image/practise-test-1/1756675716739.png" alt="1756675716739" style="width: 40%; border-radius: 10px; border: 2px solid white;">
+  <img src="image/practice-test-1/1756675716739.png" alt="1756675716739" style="width: 40%; border-radius: 10px; border: 2px solid white;">
 </div>
 
 ---
@@ -305,7 +305,7 @@ The question asks: _Which task is **NOT suitable for automation**?_
 ## ⁉️ Q39
 
 <div align="left">
-  <img src="image/practise-test-1/1756676645159.png" alt="1756676645159" style="width: 40%; border-radius: 10px; border: 2px solid white;">
+  <img src="image/practice-test-1/1756676645159.png" alt="1756676645159" style="width: 40%; border-radius: 10px; border: 2px solid white;">
 </div>
 
 ---
