@@ -1,4 +1,134 @@
-# 🔄 AZ-400 Topic 12: Processes and Communications
+# 🧩 Processes & Communications (AZ-400)
+
+Here’s the **topic breakdown** (ordered as they build on each other):
+
+1. 🌍 **Agile Methodology Basics**
+2. 📈 **Agile Metrics & Reporting** (velocity, burndown, cumulative flow, lead/cycle time)
+3. 🏉 **Scrum Framework** (roles, artifacts, ceremonies)
+4. 📊 **Work Item Processes in Azure DevOps** (Basic, Agile, Scrum, CMMI)
+5. 🗂️ **Boards, Backlogs, Sprints, Queries** (work tracking tools)
+6. 📖 **Wikis & Knowledge Sharing**
+7. 📊 **Dashboards & Widgets** (project visibility & reporting)
+8. 📨 **Communication & Collaboration** (integrations: Teams, Slack, email, Service Hooks)
+9. 🧭 **Project Governance** (policies, approvals, branch policies, compliance docs)
+
+---
+
+## 🌍 1. Agile Methodology Basics
+
+- Agile = **mindset** → deliver value quickly, adapt to change.
+- Core values: **people > processes, working software > docs, collaboration > contracts, change > fixed plan.**
+- Exam tip → Remember Agile = umbrella, Scrum/Kanban = frameworks.
+
+👉 **Keyword to memorize**: _“Agile = small, fast, adaptive.”_
+
+---
+
+## 🏉 2. Scrum Framework
+
+- Roles: **PO (what), Dev Team (how), SM (coach)**
+- Artifacts: **Product Backlog, Sprint Backlog, Increment**
+- Events: **Planning, Daily Scrum, Review, Retrospective**
+- Exam tip → Scrum is **time-boxed** (2–4 weeks).
+
+👉 **Keyword to memorize**: _“Scrum = sprints, roles, ceremonies.”_
+
+---
+
+## 📊 3. Work Item Processes in Azure DevOps
+
+- **Basic** → simple (Issues, Tasks, Epics).
+- **Agile** → uses User Stories.
+- **Scrum** → uses PBIs (Product Backlog Items).
+- **CMMI** → heavy, enterprise governance.
+
+👉 **Keyword to memorize**: _“Process = naming + structure of work items.”_
+
+---
+
+## 🗂️ 4. Boards, Backlogs, Sprints, Queries
+
+- **Boards** → Kanban view of work items (To Do → Doing → Done).
+- **Backlogs** → ordered lists of work (Epics → Features → Stories/Tasks).
+- **Sprints** → time-boxed slices with burndown tracking.
+- **Queries** → filters & reports (e.g., “All open bugs in Sprint 2”).
+
+👉 **Keyword to memorize**: _“Boards = tracking, Backlog = planning, Sprints = execution, Queries = reporting.”_
+
+---
+
+## 📖 5. Wikis & Knowledge Sharing
+
+- **Wikis** → team documentation hub (Markdown pages).
+- Stores runbooks, architecture notes, decisions.
+- Can link Wiki pages to work items.
+
+👉 **Keyword to memorize**: _“Wiki = project memory.”_
+
+---
+
+## 📊 6. Dashboards & Widgets
+
+- **Dashboards** = visual control panels.
+- **Widgets** = building blocks inside dashboards (burndown, velocity, build status).
+- Used by managers/stakeholders for quick project health checks.
+
+👉 **Keyword to memorize**: _“Dashboard = cockpit, Widgets = instruments.”_
+
+---
+
+## 📨 7. Communication & Collaboration
+
+- Azure DevOps integrates with **Microsoft Teams, Slack, email**.
+- **Service hooks** → notify external systems (e.g., post to Teams when build fails).
+- Keeps dev team + stakeholders updated automatically.
+
+👉 **Keyword to memorize**: _“Integration = no surprises.”_
+
+---
+
+## 🧭 8. Project Governance
+
+- Define rules to ensure quality & compliance:
+
+  - **Branch policies** (PRs, reviewers, builds).
+  - **Approvals** in pipelines.
+  - **Auditing & documentation** (often stored in Wikis).
+
+- Helps maintain security & compliance.
+
+👉 **Keyword to memorize**: _“Governance = rules + approvals.”_
+
+---
+
+## 📈 9. Metrics & Reporting
+
+- Common Agile metrics:
+
+  - **Velocity** (SP completed per sprint)
+  - **Burndown chart** (work left vs time)
+  - **Cumulative flow** (WIP tracking)
+  - **Lead time & cycle time** (delivery speed)
+
+👉 **Keyword to memorize**: _“Metrics = visibility + improvement.”_
+
+---
+
+## ✅ Exam-Style Recap
+
+- **Agile = mindset** → flexible, iterative.
+- **Scrum = framework** → sprints, roles, artifacts.
+- **Processes** (Agile, Scrum, CMMI, Basic) = how work items are structured.
+- **Boards/Backlogs/Sprints** = track and execute work.
+- **Wikis** = team documentation.
+- **Dashboards + Widgets** = reporting visibility.
+- **Communication tools** = Teams, Slack, service hooks.
+- **Governance** = policies, approvals, compliance.
+- **Metrics** = measure velocity, flow, cycle time.
+
+---
+
+## 🔄 AZ-400 Topic 12: Processes and Communications
 
 📚 Objective: Master collaboration, visibility, traceability, and feedback loops across Dev, Ops, QA, and Business — using Azure DevOps tools like Boards, Work Items, Wikis, Notifications, and Dashboards to **align people with pipelines**.
 
