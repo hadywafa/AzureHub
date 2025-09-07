@@ -8,7 +8,7 @@
 
 ### 🔹 1. Why This Matters in DevOps
 
-> DevOps isn't just automation — it's **culture + communication + collaboration**.
+> DevOps isn't just automation — it's **culture + communication + collaboration**.  
 > People and processes must align to deliver software **continuously, safely, and transparently**.
 
 ✅ Without communication, all your YAML and Terraform won’t save you when prod goes down.
