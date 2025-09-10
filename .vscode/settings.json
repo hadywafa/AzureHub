@@ -21,5 +21,14 @@
     "peacock.color": "#007fff",
     "cSpell.words": [
         "CMMI"
-    ]
+    ],
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "**/.vscode": false
+    },
+    "explorerExclude.backup": {}
 }
