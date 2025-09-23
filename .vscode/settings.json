@@ -20,7 +20,8 @@
     },
     "peacock.color": "#007fff",
     "cSpell.words": [
-        "CMMI"
+        "CMMI",
+        "envsubst"
     ],
     "files.exclude": {
         "**/.git": true,
