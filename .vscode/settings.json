@@ -20,8 +20,10 @@
     },
     "peacock.color": "#007fff",
     "cSpell.words": [
+        "APIM",
         "CMMI",
-        "envsubst"
+        "envsubst",
+        "Prereqs"
     ],
     "files.exclude": {
         "**/.git": true,
