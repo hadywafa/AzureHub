@@ -169,3 +169,19 @@ Will this approach meet the execution requirements of Azure Functions?
 > 👉🏻 **Explanation**
 >
 > The advancedFilters property in Azure Event Grid allows you to set up more granular filters, such as listening only for certain event subjects (e.g., those related to virtual machines or devtestlab). This helps ensure that only relevant events are processed by the application.
+
+---
+
+## ⁉️ Q34
+
+<div align="left">
+  <img src="image/mock-exam-1/1759113837739.png" alt="1759113837739" style="width: 60%; border-radius: 10px; border: 2px solid white;">
+</div>
+
+---
+
+> 👉🏻 **Explanation**
+>
+> The advancedFilters property in Azure Event Grid allows you to set up more granular filters, such as listening only for certain event subjects (e.g., those related to virtual machines or devtestlab). This helps ensure that only relevant events are processed by the application.
+
+---
