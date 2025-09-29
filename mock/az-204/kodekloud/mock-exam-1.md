@@ -227,3 +227,38 @@ Will this approach meet the execution requirements of Azure Functions?
 > The subject property in the Event Grid schema is commonly used to route and filter events. It contains detailed information about the specific resource or action that the event refers to, making it a useful field for setting up filters based on resource types or event actions. The other fields like eventType and eventTime provide additional context but are not typically used for event filtering.
 
 ---
+
+## ⁉️ Q29
+
+<div align="left">
+  <img src="image/mock-exam-1/1759143345908.png" alt="1759143345908" style="width: 60%; border-radius: 10px; border: 2px solid white;">
+</div>
+
+<div align="left">
+  <img src="image/mock-exam-1/1759143364787.png" alt="1759143364787" style="width: 60%; border-radius: 10px; border: 2px solid white;">
+</div>
+
+---
+
+> 👉🏻 **Explanation**
+>
+> ```bash
+> az webapp log config \
+>   --name <app-name> \
+>   --resource-group <resource-group-name> \
+>   --docker-container-logging filesystem
+> ```
+>
+> > This enables logging to the file system for your container.
+>
+> ---
+>
+> ### ✅ Step 2: Stream the logs in real time
+>
+> ```bash
+> az webapp log tail \
+>   --name <app-name> \
+>   --resource-group <resource-group-name>
+> ```
+>
+> > This command shows live logs from your container—similar to `docker logs -f`.
