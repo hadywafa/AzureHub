@@ -1,6 +1,6 @@
 # 📋 Mock Exam 1
 
-## ⁉️ Q50
+## ⁉️ Q1
 
 <div align="left">
   <img src="image/mock-exam-1/1759060714398.png" alt="1759060714398" style="width: 60%; border-radius: 10px; border: 2px solid white;">
@@ -12,7 +12,7 @@
 
 ---
 
-## ⁉️ Q49
+## ⁉️ Q2
 
 <div align="left">
   <img src="image/mock-exam-1/1759060809391.png" alt="1759060809391" style="width: 60%; border-radius: 10px; border: 2px solid white;">
@@ -24,7 +24,7 @@
 
 ---
 
-## ⁉️ Q48
+## ⁉️ Q3
 
 <div align="left">
   <img src="image/mock-exam-1/1759061120088.png" alt="1759061120088" style="width: 60%; border-radius: 10px; border: 2px solid white;">
@@ -50,7 +50,7 @@
 
 ---
 
-## ⁉️ Q45
+## ⁉️ Q4
 
 <div align="left">
   <img src="image/mock-exam-1/1759061517581.png" alt="1759061517581" style="width: 60%; border-radius: 10px; border: 2px solid white;">
@@ -63,7 +63,7 @@
 
 ---
 
-## ⁉️ Q44
+## ⁉️ Q5
 
 <div align="left">
   <img src="image/mock-exam-1/1759062099314.png" alt="1759062099314" style="width: 60%; border-radius: 10px; border: 2px solid white;">
@@ -76,7 +76,7 @@
 
 ---
 
-## ⁉️ Q43
+## ⁉️ Q6
 
 <div align="left">
   <img src="image/mock-exam-1/1759062525819.png" alt="1759062525819" style="width: 60%; border-radius: 10px; border: 2px solid white;">
@@ -109,7 +109,7 @@
 
 ---
 
-## ⁉️ Q40
+## ⁉️ Q7
 
 You are planning to use Azure Functions to build an app that handles non-HTTP triggers. However, the language you want to use is not supported natively by Azure Functions. You decide to write a custom handler and ensure that your custom handler can handle processing requests within 90 seconds of function invocation.
 
@@ -133,7 +133,7 @@ Will this approach meet the execution requirements of Azure Functions?
 
 ---
 
-## ⁉️ Q36
+## ⁉️ Q8
 
 <div align="left">
   <img src="image/mock-exam-1/1759093744210.png" alt="1759093744210" style="width: 60%; border-radius: 10px; border: 2px solid white;">
@@ -158,7 +158,7 @@ Will this approach meet the execution requirements of Azure Functions?
 
 ---
 
-## ⁉️ Q35
+## ⁉️ Q9
 
 <div align="left">
   <img src="image/mock-exam-1/1759100486793.png" alt="1759100486793" style="width: 60%; border-radius: 10px; border: 2px solid white;">
@@ -172,7 +172,7 @@ Will this approach meet the execution requirements of Azure Functions?
 
 ---
 
-## ⁉️ Q34
+## ⁉️ Q10
 
 <div align="left">
   <img src="image/mock-exam-1/1759113837739.png" alt="1759113837739" style="width: 60%; border-radius: 10px; border: 2px solid white;">
@@ -186,7 +186,7 @@ Will this approach meet the execution requirements of Azure Functions?
 
 ---
 
-## ⁉️ Q33
+## ⁉️ Q11
 
 <div align="left">
   <img src="image/mock-exam-1/1759115799997.png" alt="1759115799997" style="width: 60%; border-radius: 10px; border: 2px solid white;">
@@ -200,7 +200,7 @@ Will this approach meet the execution requirements of Azure Functions?
 
 ---
 
-## ⁉️ Q30
+## ⁉️ Q12
 
 <div align="left">
   <img src="image/mock-exam-1/1759116122300.png" alt="1759116122300" style="width: 60%; border-radius: 10px; border: 2px solid white;">
@@ -214,7 +214,7 @@ Will this approach meet the execution requirements of Azure Functions?
 
 ---
 
-## ⁉️ Q30
+## ⁉️ Q13
 
 <div align="left">
   <img src="image/mock-exam-1/1759116977736.png" alt="1759116977736" style="width: 60%; border-radius: 10px; border: 2px solid white;">
@@ -228,7 +228,7 @@ Will this approach meet the execution requirements of Azure Functions?
 
 ---
 
-## ⁉️ Q29
+## ⁉️ Q14
 
 <div align="left">
   <img src="image/mock-exam-1/1759143345908.png" alt="1759143345908" style="width: 60%; border-radius: 10px; border: 2px solid white;">
@@ -262,3 +262,19 @@ Will this approach meet the execution requirements of Azure Functions?
 > ```
 >
 > > This command shows live logs from your container—similar to `docker logs -f`.
+
+---
+
+## ⁉️ Q15
+
+<div align="left">
+  <img src="image/mock-exam-1/1759159315983.png" alt="1759159315983" style="width: 60%; border-radius: 10px; border: 2px solid white;">
+</div>
+
+---
+
+> 👉🏻 **Explanation**
+>
+> The `PUT` `/me/activities/recent/{activityId}` method is used to update a user's recent activity. It replaces an existing activity with the provided details. This method is appropriate when you want to modify the latest activity data that the user has performed.
+
+---
