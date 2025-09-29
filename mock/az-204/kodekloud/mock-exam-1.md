@@ -185,3 +185,45 @@ Will this approach meet the execution requirements of Azure Functions?
 > The advancedFilters property in Azure Event Grid allows you to set up more granular filters, such as listening only for certain event subjects (e.g., those related to virtual machines or devtestlab). This helps ensure that only relevant events are processed by the application.
 
 ---
+
+## ⁉️ Q33
+
+<div align="left">
+  <img src="image/mock-exam-1/1759115799997.png" alt="1759115799997" style="width: 60%; border-radius: 10px; border: 2px solid white;">
+</div>
+
+---
+
+> 👉🏻 **Explanation**
+>
+> Blob snapshots are `read-only versions` of a blob. Once a snapshot is taken, it cannot be modified. However, you can create a new blob from the snapshot or delete the snapshot if no longer needed.
+
+---
+
+## ⁉️ Q30
+
+<div align="left">
+  <img src="image/mock-exam-1/1759116122300.png" alt="1759116122300" style="width: 60%; border-radius: 10px; border: 2px solid white;">
+</div>
+
+---
+
+> 👉🏻 **Explanation**
+>
+> Selecting the Single tenant option means that only accounts from the specific Azure Active Directory (AAD) associated with your organization will be allowed to authenticate. This provides a higher level of security and control, as only users within your organization can access the application.
+
+---
+
+## ⁉️ Q30
+
+<div align="left">
+  <img src="image/mock-exam-1/1759116977736.png" alt="1759116977736" style="width: 60%; border-radius: 10px; border: 2px solid white;">
+</div>
+
+---
+
+> 👉🏻 **Explanation**
+>
+> The subject property in the Event Grid schema is commonly used to route and filter events. It contains detailed information about the specific resource or action that the event refers to, making it a useful field for setting up filters based on resource types or event actions. The other fields like eventType and eventTime provide additional context but are not typically used for event filtering.
+
+---
