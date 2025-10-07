@@ -5,6 +5,12 @@
 
 ---
 
+<div align="center" style="background-color: #242A3A; border-radius: 20px;border: 4px solid white;">
+  <img src="image/1759875249312.png" alt="1759875249312" style="width: 80%;">
+</div>
+
+---
+
 ## 🧩 What Exactly Is Azure WAF?
 
 **Azure WAF (Web Application Firewall)** is a **layer-7 (HTTP/HTTPS) protection** service that inspects and filters inbound traffic to your web applications.
@@ -31,6 +37,12 @@ Azure WAF can run in **two main places** (and optionally a third newer one):
 So:  
 ✅ Azure WAF = feature inside **Application Gateway**, **Front Door**, or **CDN**  
 ❌ Not a standalone SKU in Azure.
+
+---
+
+<div align="center" style="background-color: #242A3A; border-radius: 20px;border: 4px solid white;">
+  <img src="image/1759875458567.png" alt="1759875458567" style="width: 80%;">
+</div>
 
 ---
 
