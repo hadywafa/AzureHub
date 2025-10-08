@@ -13,10 +13,10 @@ Scaling behavior depends on the **deployment model**:
 
 <div align="center" style="background-color: #1b3f47ff; border-radius: 10px;">
 
-| Deployment               | Scaling Model                                          | Notes                            |
-| ------------------------ | ------------------------------------------------------ | -------------------------------- |
-| **SQL Server on VM**     | Manual (VM resize)                                     | Traditional IaaS scaling         |
-| **SQL Managed Instance** | Vertical (vCore scaling)                               | Manual or automated with scripts |
+| Deployment               | Scaling Model                                            | Notes                            |
+| ------------------------ | -------------------------------------------------------- | -------------------------------- |
+| **SQL Server on VM**     | Manual (VM resize)                                       | Traditional IaaS scaling         |
+| **SQL Managed Instance** | Vertical (vCore scaling)                                 | Manual or automated with scripts |
 | **Azure SQL Database**   | Vertical + Read (Scale-Out) (Premium & Hyperscale tiers) | Supports auto-scale (serverless) |
 
 </div>
