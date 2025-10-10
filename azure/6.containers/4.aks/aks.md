@@ -3,6 +3,8 @@
 ![Azure Kubernetes Service](images/aks-1.png)
 ![AKS Architecture](images/aks-2.png)
 
+![1760053705874](image/aks/1760053705874.png)
+
 ## What is Azure Kubernetes Service (AKS)?
 
 **Azure Kubernetes Service (AKS)** is a managed Kubernetes service that simplifies deploying, managing, and scaling containerized applications using Kubernetes. AKS handles critical tasks such as health monitoring and maintenance, enabling you to focus on developing your applications rather than managing the infrastructure.
