@@ -2,7 +2,7 @@
 
 ## 🌍 What Are Synapse Pipelines?
 
-> **Synapse Pipelines** are the **data orchestration and integration** component inside Azure Synapse Analytics.
+> **Synapse Pipelines** are the **data orchestration and integration** component inside Azure Synapse Analytics.  
 > They’re built on top of **Azure Data Factory (ADF)** — but live directly _inside_ your Synapse workspace.
 
 You can think of them as:
