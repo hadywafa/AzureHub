@@ -1,9 +1,9 @@
 # Azure Kubernetes Service (AKS)
 
-![Azure Kubernetes Service](images/aks-1.png)
-![AKS Architecture](images/aks-2.png)
+![Azure Kubernetes Service](image/aks-1.png)
+![AKS Architecture](image/aks-2.png)
 
-![1760053705874](image/aks/1760053705874.png)
+![1760053705874](image/1760053705874.png)
 
 ## What is Azure Kubernetes Service (AKS)?
 
