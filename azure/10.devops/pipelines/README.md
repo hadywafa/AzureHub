@@ -1,5 +1,8 @@
 # Azure Pipelines Mastery Roadmap (From Zero → Architect Level)
 
+hady please master ci cd pipeline as it the most important thing in your new e&
+and then you need to create cicd for your logging solution and try azure devops.
+
 ## 1. Core Foundations (Non-Negotiable)
 
 These are the **laws of physics** of Azure Pipelines. If any of these are weak, everything else breaks.
