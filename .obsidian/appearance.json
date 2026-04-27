@@ -1,1 +1,10 @@
-{}
+{
+  "cssTheme": "Blue Topaz",
+  "theme": "system",
+  "monospaceFontFamily": "",
+  "baseFontSizeAction": false,
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "enabledCssSnippets": [],
+  "accentColor": ""
+}
