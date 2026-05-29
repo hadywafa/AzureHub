@@ -29,7 +29,7 @@
 >
 > We need to choose kubenet since our requirement is Pods should receive an IP address from a logically different address space.
 >
-> ![1756065142682](image/practise-test-3/1756065142682.png)
+> ![1756065142682](1756065142682.png)
 
 ---
 
@@ -250,7 +250,7 @@ But since the options force you to pick:
 
 > 👉🏻 **Explanation**  
 > We can create two types of records: TXT and MX. So, in the options given, we can choose an MX record to verify the domain.
-> ![1756077374975](image/practise-test-3/1756077374975.png)
+> ![1756077374975](1756077374975.png)
 
 ---
 

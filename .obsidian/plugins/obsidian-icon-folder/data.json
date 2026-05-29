@@ -62,7 +62,7 @@
   "0.Roadmap/Assets": "LiStore",
   "scripts": "FabPython",
   "Dictionary": "LiLanguages",
-  "mock": "LiFileExclamationPoint",
   "azure": "FabMicrosoft",
-  "other": "LiNotebook"
+  "other": "LiNotebook",
+  "exams": "LiFileExclamationPoint"
 }

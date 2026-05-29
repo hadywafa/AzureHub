@@ -4,7 +4,7 @@
       "children": [
         "TaskNotes",
         "azure",
-        "mock",
+        "exams",
         "other",
         "trash",
         "README.md"
@@ -3498,676 +3498,6 @@
       ],
       "sortOrder": "custom"
     },
-    "mock": {
-      "children": [
-        "mock/az-104",
-        "mock/az-204",
-        "mock/az-305",
-        "mock/az-400",
-        "mock/resources"
-      ],
-      "sortOrder": "custom"
-    },
-    "mock/az-104": {
-      "children": [
-        "mock/az-104/exams",
-        "mock/az-104/quizs"
-      ],
-      "sortOrder": "custom"
-    },
-    "mock/az-104/exams": {
-      "children": [
-        "mock/az-104/exams/varun_sharma",
-        "mock/az-104/exams/references.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "mock/az-104/exams/varun_sharma": {
-      "children": [
-        "mock/az-104/exams/varun_sharma/image",
-        "mock/az-104/exams/varun_sharma/practise-test-1.md",
-        "mock/az-104/exams/varun_sharma/practise-test-2.md",
-        "mock/az-104/exams/varun_sharma/practise-test-3.md",
-        "mock/az-104/exams/varun_sharma/practise-test-4.md",
-        "mock/az-104/exams/varun_sharma/practise-test-5.md",
-        "mock/az-104/exams/varun_sharma/practise-test-6.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "mock/az-104/exams/varun_sharma/image": {
-      "children": [
-        "mock/az-104/exams/varun_sharma/image/practise-test-1",
-        "mock/az-104/exams/varun_sharma/image/practise-test-3",
-        "mock/az-104/exams/varun_sharma/image/practise-test-4",
-        "mock/az-104/exams/varun_sharma/image/practise-test-5",
-        "mock/az-104/exams/varun_sharma/image/practise-test-6"
-      ],
-      "sortOrder": "custom"
-    },
-    "mock/az-104/exams/varun_sharma/image/practise-test-1": {
-      "children": [
-        "mock/az-104/exams/varun_sharma/image/practise-test-1/1756104250487.png",
-        "mock/az-104/exams/varun_sharma/image/practise-test-1/1756104475682.png",
-        "mock/az-104/exams/varun_sharma/image/practise-test-1/1756106106751.png",
-        "mock/az-104/exams/varun_sharma/image/practise-test-1/1756106352901.png",
-        "mock/az-104/exams/varun_sharma/image/practise-test-1/ex1-q2.png",
-        "mock/az-104/exams/varun_sharma/image/practise-test-1/ex1-q5.png",
-        "mock/az-104/exams/varun_sharma/image/practise-test-1/ex1-q11.png",
-        "mock/az-104/exams/varun_sharma/image/practise-test-1/ex1-q11-1.png",
-        "mock/az-104/exams/varun_sharma/image/practise-test-1/ex1-q14.png",
-        "mock/az-104/exams/varun_sharma/image/practise-test-1/ex1-q25.png",
-        "mock/az-104/exams/varun_sharma/image/practise-test-1/ex1-q27.png",
-        "mock/az-104/exams/varun_sharma/image/practise-test-1/ex1-q28.png",
-        "mock/az-104/exams/varun_sharma/image/practise-test-1/ex1-q37.png",
-        "mock/az-104/exams/varun_sharma/image/practise-test-1/ex1-q39.png",
-        "mock/az-104/exams/varun_sharma/image/practise-test-1/ex1-q50.png"
-      ],
-      "sortOrder": "custom"
-    },
-    "mock/az-104/exams/varun_sharma/image/practise-test-3": {
-      "children": [
-        "mock/az-104/exams/varun_sharma/image/practise-test-3/1756062982103.png",
-        "mock/az-104/exams/varun_sharma/image/practise-test-3/1756064336917.png",
-        "mock/az-104/exams/varun_sharma/image/practise-test-3/1756065133534.png",
-        "mock/az-104/exams/varun_sharma/image/practise-test-3/1756065142682.png",
-        "mock/az-104/exams/varun_sharma/image/practise-test-3/1756065597168.png",
-        "mock/az-104/exams/varun_sharma/image/practise-test-3/1756068080809.png",
-        "mock/az-104/exams/varun_sharma/image/practise-test-3/1756068544655.png",
-        "mock/az-104/exams/varun_sharma/image/practise-test-3/1756070116303.png",
-        "mock/az-104/exams/varun_sharma/image/practise-test-3/1756070219063.png",
-        "mock/az-104/exams/varun_sharma/image/practise-test-3/1756076904902.png",
-        "mock/az-104/exams/varun_sharma/image/practise-test-3/1756077116865.png",
-        "mock/az-104/exams/varun_sharma/image/practise-test-3/1756077282894.png",
-        "mock/az-104/exams/varun_sharma/image/practise-test-3/1756077374975.png",
-        "mock/az-104/exams/varun_sharma/image/practise-test-3/1756077547874.png"
-      ],
-      "sortOrder": "custom"
-    },
-    "mock/az-104/exams/varun_sharma/image/practise-test-4": {
-      "children": [
-        "mock/az-104/exams/varun_sharma/image/practise-test-4/1756053989962.png",
-        "mock/az-104/exams/varun_sharma/image/practise-test-4/1756054251493.png",
-        "mock/az-104/exams/varun_sharma/image/practise-test-4/1756054833207.png",
-        "mock/az-104/exams/varun_sharma/image/practise-test-4/1756054848523.png",
-        "mock/az-104/exams/varun_sharma/image/practise-test-4/1756054998414.png"
-      ],
-      "sortOrder": "custom"
-    },
-    "mock/az-104/exams/varun_sharma/image/practise-test-5": {
-      "children": [
-        "mock/az-104/exams/varun_sharma/image/practise-test-5/1756059632366.png",
-        "mock/az-104/exams/varun_sharma/image/practise-test-5/1756059713248.png",
-        "mock/az-104/exams/varun_sharma/image/practise-test-5/1756059926415.png",
-        "mock/az-104/exams/varun_sharma/image/practise-test-5/1756060075562.png"
-      ],
-      "sortOrder": "custom"
-    },
-    "mock/az-104/exams/varun_sharma/image/practise-test-6": {
-      "children": [
-        "mock/az-104/exams/varun_sharma/image/practise-test-6/1756060406296.png",
-        "mock/az-104/exams/varun_sharma/image/practise-test-6/1756060687006.png"
-      ],
-      "sortOrder": "custom"
-    },
-    "mock/az-104/quizs": {
-      "children": [
-        "mock/az-104/quizs/images",
-        "mock/az-104/quizs/1.qz.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "mock/az-104/quizs/images": {
-      "children": [
-        "mock/az-104/quizs/images/dynamic-ip.png"
-      ],
-      "sortOrder": "custom"
-    },
-    "mock/az-204": {
-      "children": [
-        "mock/az-204/kodekloud",
-        "mock/az-204/tutorialsdojo",
-        "mock/az-204/references.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "mock/az-204/kodekloud": {
-      "children": [
-        "mock/az-204/kodekloud/image",
-        "mock/az-204/kodekloud/mock-exam-1.md",
-        "mock/az-204/kodekloud/mock-exam-2.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "mock/az-204/kodekloud/image": {
-      "children": [
-        "mock/az-204/kodekloud/image/mock-exam-1",
-        "mock/az-204/kodekloud/image/mock-exam-2"
-      ],
-      "sortOrder": "custom"
-    },
-    "mock/az-204/kodekloud/image/mock-exam-1": {
-      "children": [
-        "mock/az-204/kodekloud/image/mock-exam-1/1759060714398.png",
-        "mock/az-204/kodekloud/image/mock-exam-1/1759060809391.png",
-        "mock/az-204/kodekloud/image/mock-exam-1/1759061120088.png",
-        "mock/az-204/kodekloud/image/mock-exam-1/1759061517581.png",
-        "mock/az-204/kodekloud/image/mock-exam-1/1759062099314.png",
-        "mock/az-204/kodekloud/image/mock-exam-1/1759062525819.png",
-        "mock/az-204/kodekloud/image/mock-exam-1/1759093744210.png",
-        "mock/az-204/kodekloud/image/mock-exam-1/1759100486793.png",
-        "mock/az-204/kodekloud/image/mock-exam-1/1759113837739.png",
-        "mock/az-204/kodekloud/image/mock-exam-1/1759115799997.png",
-        "mock/az-204/kodekloud/image/mock-exam-1/1759116122300.png",
-        "mock/az-204/kodekloud/image/mock-exam-1/1759116977736.png",
-        "mock/az-204/kodekloud/image/mock-exam-1/1759143338902.png",
-        "mock/az-204/kodekloud/image/mock-exam-1/1759143345908.png",
-        "mock/az-204/kodekloud/image/mock-exam-1/1759143364787.png",
-        "mock/az-204/kodekloud/image/mock-exam-1/1759159315983.png"
-      ],
-      "sortOrder": "custom"
-    },
-    "mock/az-204/kodekloud/image/mock-exam-2": {
-      "children": [
-        "mock/az-204/kodekloud/image/mock-exam-2/1759183790515.png",
-        "mock/az-204/kodekloud/image/mock-exam-2/1759184759726.png",
-        "mock/az-204/kodekloud/image/mock-exam-2/1759184785509.png",
-        "mock/az-204/kodekloud/image/mock-exam-2/1759185041489.png",
-        "mock/az-204/kodekloud/image/mock-exam-2/1759185045795.png"
-      ],
-      "sortOrder": "custom"
-    },
-    "mock/az-204/tutorialsdojo": {
-      "children": [
-        "mock/az-204/tutorialsdojo/diagnostic-tests",
-        "mock/az-204/tutorialsdojo/review-mode"
-      ],
-      "sortOrder": "custom"
-    },
-    "mock/az-204/tutorialsdojo/diagnostic-tests": {
-      "children": [
-        "mock/az-204/tutorialsdojo/diagnostic-tests/image",
-        "mock/az-204/tutorialsdojo/diagnostic-tests/1.time-mode-diagnostic-test.md",
-        "mock/az-204/tutorialsdojo/diagnostic-tests/2.review-mode-diagnostic-test.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "mock/az-204/tutorialsdojo/diagnostic-tests/image": {
-      "children": [
-        "mock/az-204/tutorialsdojo/diagnostic-tests/image/1.time-mode-diagnostic-test",
-        "mock/az-204/tutorialsdojo/diagnostic-tests/image/2.review-mode-diagnostic-test"
-      ],
-      "sortOrder": "custom"
-    },
-    "mock/az-204/tutorialsdojo/diagnostic-tests/image/1.time-mode-diagnostic-test": {
-      "children": [
-        "mock/az-204/tutorialsdojo/diagnostic-tests/image/1.time-mode-diagnostic-test/1759358091931.png",
-        "mock/az-204/tutorialsdojo/diagnostic-tests/image/1.time-mode-diagnostic-test/1759369134609.png",
-        "mock/az-204/tutorialsdojo/diagnostic-tests/image/1.time-mode-diagnostic-test/1759369697163.png",
-        "mock/az-204/tutorialsdojo/diagnostic-tests/image/1.time-mode-diagnostic-test/1759369888835.png",
-        "mock/az-204/tutorialsdojo/diagnostic-tests/image/1.time-mode-diagnostic-test/1759370006060.png"
-      ],
-      "sortOrder": "custom"
-    },
-    "mock/az-204/tutorialsdojo/diagnostic-tests/image/2.review-mode-diagnostic-test": {
-      "children": [
-        "mock/az-204/tutorialsdojo/diagnostic-tests/image/2.review-mode-diagnostic-test/1757353884691.png"
-      ],
-      "sortOrder": "custom"
-    },
-    "mock/az-204/tutorialsdojo/review-mode": {
-      "children": [
-        "mock/az-204/tutorialsdojo/review-mode/image",
-        "mock/az-204/tutorialsdojo/review-mode/1.review-mode-set1.md",
-        "mock/az-204/tutorialsdojo/review-mode/2.review-mode-set2.md",
-        "mock/az-204/tutorialsdojo/review-mode/3.review-mode-set3.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "mock/az-204/tutorialsdojo/review-mode/image": {
-      "children": [
-        "mock/az-204/tutorialsdojo/review-mode/image/1.review-mode-set1",
-        "mock/az-204/tutorialsdojo/review-mode/image/2.review-mode-set2",
-        "mock/az-204/tutorialsdojo/review-mode/image/3.review-mode-set3"
-      ],
-      "sortOrder": "custom"
-    },
-    "mock/az-204/tutorialsdojo/review-mode/image/1.review-mode-set1": {
-      "children": [
-        "mock/az-204/tutorialsdojo/review-mode/image/1.review-mode-set1/1757354011894.png",
-        "mock/az-204/tutorialsdojo/review-mode/image/1.review-mode-set1/1759422076434.png",
-        "mock/az-204/tutorialsdojo/review-mode/image/1.review-mode-set1/1759422562123.png",
-        "mock/az-204/tutorialsdojo/review-mode/image/1.review-mode-set1/1759422719850.png",
-        "mock/az-204/tutorialsdojo/review-mode/image/1.review-mode-set1/1759423565265.png",
-        "mock/az-204/tutorialsdojo/review-mode/image/1.review-mode-set1/1759427542045.png",
-        "mock/az-204/tutorialsdojo/review-mode/image/1.review-mode-set1/1759427853653.png",
-        "mock/az-204/tutorialsdojo/review-mode/image/1.review-mode-set1/1759435690008.png",
-        "mock/az-204/tutorialsdojo/review-mode/image/1.review-mode-set1/1759435822344.png",
-        "mock/az-204/tutorialsdojo/review-mode/image/1.review-mode-set1/1759439650378.png",
-        "mock/az-204/tutorialsdojo/review-mode/image/1.review-mode-set1/1759439988601.png",
-        "mock/az-204/tutorialsdojo/review-mode/image/1.review-mode-set1/1759440018495.png",
-        "mock/az-204/tutorialsdojo/review-mode/image/1.review-mode-set1/1759440897928.png",
-        "mock/az-204/tutorialsdojo/review-mode/image/1.review-mode-set1/1759443150106.png",
-        "mock/az-204/tutorialsdojo/review-mode/image/1.review-mode-set1/1759443305905.png",
-        "mock/az-204/tutorialsdojo/review-mode/image/1.review-mode-set1/1759443933625.png",
-        "mock/az-204/tutorialsdojo/review-mode/image/1.review-mode-set1/1759443987203.png",
-        "mock/az-204/tutorialsdojo/review-mode/image/1.review-mode-set1/1759444788004.png",
-        "mock/az-204/tutorialsdojo/review-mode/image/1.review-mode-set1/1759444824698.png",
-        "mock/az-204/tutorialsdojo/review-mode/image/1.review-mode-set1/1759446608396.png",
-        "mock/az-204/tutorialsdojo/review-mode/image/1.review-mode-set1/1759447986800.png",
-        "mock/az-204/tutorialsdojo/review-mode/image/1.review-mode-set1/1759448044924.png",
-        "mock/az-204/tutorialsdojo/review-mode/image/1.review-mode-set1/1759448417636.png",
-        "mock/az-204/tutorialsdojo/review-mode/image/1.review-mode-set1/1759448421629.png",
-        "mock/az-204/tutorialsdojo/review-mode/image/1.review-mode-set1/1759449134566.png",
-        "mock/az-204/tutorialsdojo/review-mode/image/1.review-mode-set1/1759449157018.png",
-        "mock/az-204/tutorialsdojo/review-mode/image/1.review-mode-set1/1759449792800.png",
-        "mock/az-204/tutorialsdojo/review-mode/image/1.review-mode-set1/1759449926343.png",
-        "mock/az-204/tutorialsdojo/review-mode/image/1.review-mode-set1/1759450882833.png",
-        "mock/az-204/tutorialsdojo/review-mode/image/1.review-mode-set1/1759451952871.png",
-        "mock/az-204/tutorialsdojo/review-mode/image/1.review-mode-set1/1759452479221.png",
-        "mock/az-204/tutorialsdojo/review-mode/image/1.review-mode-set1/1759453155133.png",
-        "mock/az-204/tutorialsdojo/review-mode/image/1.review-mode-set1/1759455790790.png",
-        "mock/az-204/tutorialsdojo/review-mode/image/1.review-mode-set1/1759456288765.png"
-      ],
-      "sortOrder": "custom"
-    },
-    "mock/az-204/tutorialsdojo/review-mode/image/2.review-mode-set2": {
-      "children": [
-        "mock/az-204/tutorialsdojo/review-mode/image/2.review-mode-set2/1757448694640.png",
-        "mock/az-204/tutorialsdojo/review-mode/image/2.review-mode-set2/1759498515945.png",
-        "mock/az-204/tutorialsdojo/review-mode/image/2.review-mode-set2/1759500857948.png",
-        "mock/az-204/tutorialsdojo/review-mode/image/2.review-mode-set2/1759503362883.png",
-        "mock/az-204/tutorialsdojo/review-mode/image/2.review-mode-set2/1759504569600.png",
-        "mock/az-204/tutorialsdojo/review-mode/image/2.review-mode-set2/1759506552783.png",
-        "mock/az-204/tutorialsdojo/review-mode/image/2.review-mode-set2/1759510521586.png",
-        "mock/az-204/tutorialsdojo/review-mode/image/2.review-mode-set2/1759510581593.png",
-        "mock/az-204/tutorialsdojo/review-mode/image/2.review-mode-set2/1759513947485.png",
-        "mock/az-204/tutorialsdojo/review-mode/image/2.review-mode-set2/1759532420443.png",
-        "mock/az-204/tutorialsdojo/review-mode/image/2.review-mode-set2/1759534636193.png",
-        "mock/az-204/tutorialsdojo/review-mode/image/2.review-mode-set2/1759535623718.png",
-        "mock/az-204/tutorialsdojo/review-mode/image/2.review-mode-set2/1759536180520.png",
-        "mock/az-204/tutorialsdojo/review-mode/image/2.review-mode-set2/1759536238555.png",
-        "mock/az-204/tutorialsdojo/review-mode/image/2.review-mode-set2/1759570222360.png",
-        "mock/az-204/tutorialsdojo/review-mode/image/2.review-mode-set2/1759574799768.png",
-        "mock/az-204/tutorialsdojo/review-mode/image/2.review-mode-set2/1759575933250.png",
-        "mock/az-204/tutorialsdojo/review-mode/image/2.review-mode-set2/1759576341082.png",
-        "mock/az-204/tutorialsdojo/review-mode/image/2.review-mode-set2/1759576974789.png",
-        "mock/az-204/tutorialsdojo/review-mode/image/2.review-mode-set2/1759578237863.png",
-        "mock/az-204/tutorialsdojo/review-mode/image/2.review-mode-set2/1759579031998.png",
-        "mock/az-204/tutorialsdojo/review-mode/image/2.review-mode-set2/1759581798056.png"
-      ],
-      "sortOrder": "custom"
-    },
-    "mock/az-204/tutorialsdojo/review-mode/image/3.review-mode-set3": {
-      "children": [
-        "mock/az-204/tutorialsdojo/review-mode/image/3.review-mode-set3/1757506085466.png",
-        "mock/az-204/tutorialsdojo/review-mode/image/3.review-mode-set3/1759582943032.png",
-        "mock/az-204/tutorialsdojo/review-mode/image/3.review-mode-set3/1759582961843.png",
-        "mock/az-204/tutorialsdojo/review-mode/image/3.review-mode-set3/1759583872110.png",
-        "mock/az-204/tutorialsdojo/review-mode/image/3.review-mode-set3/1759584848582.png",
-        "mock/az-204/tutorialsdojo/review-mode/image/3.review-mode-set3/1759585750779.png",
-        "mock/az-204/tutorialsdojo/review-mode/image/3.review-mode-set3/1759585782391.png"
-      ],
-      "sortOrder": "custom"
-    },
-    "mock/az-305": {
-      "children": [
-        "mock/az-305/kodekloud",
-        "mock/az-305/tutorialsdojo",
-        "mock/az-305/references.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "mock/az-305/kodekloud": {
-      "children": [
-        "mock/az-305/kodekloud/image",
-        "mock/az-305/kodekloud/mock-exam-1.md",
-        "mock/az-305/kodekloud/mock-exam-2.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "mock/az-305/kodekloud/image": {
-      "children": [
-        "mock/az-305/kodekloud/image/mock-exam-1",
-        "mock/az-305/kodekloud/image/mock-exam-2"
-      ],
-      "sortOrder": "custom"
-    },
-    "mock/az-305/kodekloud/image/mock-exam-1": {
-      "children": [
-        "mock/az-305/kodekloud/image/mock-exam-1/1759060714398.png"
-      ],
-      "sortOrder": "custom"
-    },
-    "mock/az-305/kodekloud/image/mock-exam-2": {
-      "children": [
-        "mock/az-305/kodekloud/image/mock-exam-2/1759183790515.png"
-      ],
-      "sortOrder": "custom"
-    },
-    "mock/az-305/tutorialsdojo": {
-      "children": [
-        "mock/az-305/tutorialsdojo/diagnostic-tests",
-        "mock/az-305/tutorialsdojo/review-mode"
-      ],
-      "sortOrder": "custom"
-    },
-    "mock/az-305/tutorialsdojo/diagnostic-tests": {
-      "children": [
-        "mock/az-305/tutorialsdojo/diagnostic-tests/image",
-        "mock/az-305/tutorialsdojo/diagnostic-tests/1.time-mode-diagnostic-test.md",
-        "mock/az-305/tutorialsdojo/diagnostic-tests/2.review-mode-diagnostic-test.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "mock/az-305/tutorialsdojo/diagnostic-tests/image": {
-      "children": [
-        "mock/az-305/tutorialsdojo/diagnostic-tests/image/1.time-mode-diagnostic-test",
-        "mock/az-305/tutorialsdojo/diagnostic-tests/image/2.review-mode-diagnostic-test"
-      ],
-      "sortOrder": "custom"
-    },
-    "mock/az-305/tutorialsdojo/diagnostic-tests/image/1.time-mode-diagnostic-test": {
-      "children": [
-        "mock/az-305/tutorialsdojo/diagnostic-tests/image/1.time-mode-diagnostic-test/1759358091931.png",
-        "mock/az-305/tutorialsdojo/diagnostic-tests/image/1.time-mode-diagnostic-test/1759828967198.png",
-        "mock/az-305/tutorialsdojo/diagnostic-tests/image/1.time-mode-diagnostic-test/1759829522693.png",
-        "mock/az-305/tutorialsdojo/diagnostic-tests/image/1.time-mode-diagnostic-test/1759830455011.png",
-        "mock/az-305/tutorialsdojo/diagnostic-tests/image/1.time-mode-diagnostic-test/1759831141290.png",
-        "mock/az-305/tutorialsdojo/diagnostic-tests/image/1.time-mode-diagnostic-test/1759845812036.png",
-        "mock/az-305/tutorialsdojo/diagnostic-tests/image/1.time-mode-diagnostic-test/1759845861299.png",
-        "mock/az-305/tutorialsdojo/diagnostic-tests/image/1.time-mode-diagnostic-test/1759856859272.png",
-        "mock/az-305/tutorialsdojo/diagnostic-tests/image/1.time-mode-diagnostic-test/1759857432985.png",
-        "mock/az-305/tutorialsdojo/diagnostic-tests/image/1.time-mode-diagnostic-test/1759864563358.png",
-        "mock/az-305/tutorialsdojo/diagnostic-tests/image/1.time-mode-diagnostic-test/1759864598792.png",
-        "mock/az-305/tutorialsdojo/diagnostic-tests/image/1.time-mode-diagnostic-test/1759864658902.png",
-        "mock/az-305/tutorialsdojo/diagnostic-tests/image/1.time-mode-diagnostic-test/1759864665261.png",
-        "mock/az-305/tutorialsdojo/diagnostic-tests/image/1.time-mode-diagnostic-test/1759865169989.png",
-        "mock/az-305/tutorialsdojo/diagnostic-tests/image/1.time-mode-diagnostic-test/1759865268286.png",
-        "mock/az-305/tutorialsdojo/diagnostic-tests/image/1.time-mode-diagnostic-test/1759865536164.png",
-        "mock/az-305/tutorialsdojo/diagnostic-tests/image/1.time-mode-diagnostic-test/1759865559661.png"
-      ],
-      "sortOrder": "custom"
-    },
-    "mock/az-305/tutorialsdojo/diagnostic-tests/image/2.review-mode-diagnostic-test": {
-      "children": [
-        "mock/az-305/tutorialsdojo/diagnostic-tests/image/2.review-mode-diagnostic-test/1757353884691.png"
-      ],
-      "sortOrder": "custom"
-    },
-    "mock/az-305/tutorialsdojo/review-mode": {
-      "children": [
-        "mock/az-305/tutorialsdojo/review-mode/image",
-        "mock/az-305/tutorialsdojo/review-mode/1.review-mode-set1.md",
-        "mock/az-305/tutorialsdojo/review-mode/2.review-mode-set2.md",
-        "mock/az-305/tutorialsdojo/review-mode/3.review-mode-set3.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "mock/az-305/tutorialsdojo/review-mode/image": {
-      "children": [
-        "mock/az-305/tutorialsdojo/review-mode/image/1.review-mode-set1",
-        "mock/az-305/tutorialsdojo/review-mode/image/2.review-mode-set2",
-        "mock/az-305/tutorialsdojo/review-mode/image/3.review-mode-set3"
-      ],
-      "sortOrder": "custom"
-    },
-    "mock/az-305/tutorialsdojo/review-mode/image/1.review-mode-set1": {
-      "children": [
-        "mock/az-305/tutorialsdojo/review-mode/image/1.review-mode-set1/1757354011894.png",
-        "mock/az-305/tutorialsdojo/review-mode/image/1.review-mode-set1/1760028763647.png",
-        "mock/az-305/tutorialsdojo/review-mode/image/1.review-mode-set1/1760029206990.png",
-        "mock/az-305/tutorialsdojo/review-mode/image/1.review-mode-set1/1760031958257.png",
-        "mock/az-305/tutorialsdojo/review-mode/image/1.review-mode-set1/1760032477090.png",
-        "mock/az-305/tutorialsdojo/review-mode/image/1.review-mode-set1/1760032489649.png",
-        "mock/az-305/tutorialsdojo/review-mode/image/1.review-mode-set1/1760033532073.png",
-        "mock/az-305/tutorialsdojo/review-mode/image/1.review-mode-set1/1760033544977.png",
-        "mock/az-305/tutorialsdojo/review-mode/image/1.review-mode-set1/1760034266833.png",
-        "mock/az-305/tutorialsdojo/review-mode/image/1.review-mode-set1/1760037735421.png",
-        "mock/az-305/tutorialsdojo/review-mode/image/1.review-mode-set1/1760037936485.png",
-        "mock/az-305/tutorialsdojo/review-mode/image/1.review-mode-set1/1760053929037.png",
-        "mock/az-305/tutorialsdojo/review-mode/image/1.review-mode-set1/1760054587036.png",
-        "mock/az-305/tutorialsdojo/review-mode/image/1.review-mode-set1/1760055609907.png",
-        "mock/az-305/tutorialsdojo/review-mode/image/1.review-mode-set1/1760055952361.png",
-        "mock/az-305/tutorialsdojo/review-mode/image/1.review-mode-set1/1760056068067.png",
-        "mock/az-305/tutorialsdojo/review-mode/image/1.review-mode-set1/1760056506073.png",
-        "mock/az-305/tutorialsdojo/review-mode/image/1.review-mode-set1/1760056792194.png",
-        "mock/az-305/tutorialsdojo/review-mode/image/1.review-mode-set1/1760075701480.png"
-      ],
-      "sortOrder": "custom"
-    },
-    "mock/az-305/tutorialsdojo/review-mode/image/2.review-mode-set2": {
-      "children": [
-        "mock/az-305/tutorialsdojo/review-mode/image/2.review-mode-set2/1757448694640.png"
-      ],
-      "sortOrder": "custom"
-    },
-    "mock/az-305/tutorialsdojo/review-mode/image/3.review-mode-set3": {
-      "children": [
-        "mock/az-305/tutorialsdojo/review-mode/image/3.review-mode-set3/1757506085466.png",
-        "mock/az-305/tutorialsdojo/review-mode/image/3.review-mode-set3/1760050452965.png",
-        "mock/az-305/tutorialsdojo/review-mode/image/3.review-mode-set3/1760050484390.png",
-        "mock/az-305/tutorialsdojo/review-mode/image/3.review-mode-set3/1760050523287.png",
-        "mock/az-305/tutorialsdojo/review-mode/image/3.review-mode-set3/1760051427924.png",
-        "mock/az-305/tutorialsdojo/review-mode/image/3.review-mode-set3/1760051824715.png",
-        "mock/az-305/tutorialsdojo/review-mode/image/3.review-mode-set3/1760051933345.png",
-        "mock/az-305/tutorialsdojo/review-mode/image/3.review-mode-set3/1760052663965.png",
-        "mock/az-305/tutorialsdojo/review-mode/image/3.review-mode-set3/1760052705194.png",
-        "mock/az-305/tutorialsdojo/review-mode/image/3.review-mode-set3/1760052843996.png",
-        "mock/az-305/tutorialsdojo/review-mode/image/3.review-mode-set3/1760053094401.png",
-        "mock/az-305/tutorialsdojo/review-mode/image/3.review-mode-set3/1760053204183.png"
-      ],
-      "sortOrder": "custom"
-    },
-    "mock/az-400": {
-      "children": [
-        "mock/az-400/tutorialsdojo",
-        "mock/az-400/varun_sharma"
-      ],
-      "sortOrder": "custom"
-    },
-    "mock/az-400/tutorialsdojo": {
-      "children": [
-        "mock/az-400/tutorialsdojo/diagnostic-tests",
-        "mock/az-400/tutorialsdojo/review-mode"
-      ],
-      "sortOrder": "custom"
-    },
-    "mock/az-400/tutorialsdojo/diagnostic-tests": {
-      "children": [
-        "mock/az-400/tutorialsdojo/diagnostic-tests/image",
-        "mock/az-400/tutorialsdojo/diagnostic-tests/1.review-mode-diagnostic-test.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "mock/az-400/tutorialsdojo/diagnostic-tests/image": {
-      "children": [
-        "mock/az-400/tutorialsdojo/diagnostic-tests/image/1757353884691.png",
-        "mock/az-400/tutorialsdojo/diagnostic-tests/image/1757354679673.png",
-        "mock/az-400/tutorialsdojo/diagnostic-tests/image/1757355091683.png",
-        "mock/az-400/tutorialsdojo/diagnostic-tests/image/1757355498639.png",
-        "mock/az-400/tutorialsdojo/diagnostic-tests/image/1757355525325.png",
-        "mock/az-400/tutorialsdojo/diagnostic-tests/image/1757355827221.png",
-        "mock/az-400/tutorialsdojo/diagnostic-tests/image/1757365754538.png"
-      ],
-      "sortOrder": "custom"
-    },
-    "mock/az-400/tutorialsdojo/review-mode": {
-      "children": [
-        "mock/az-400/tutorialsdojo/review-mode/image",
-        "mock/az-400/tutorialsdojo/review-mode/1.review-mode-set1.md",
-        "mock/az-400/tutorialsdojo/review-mode/2.review-mode-set2.md",
-        "mock/az-400/tutorialsdojo/review-mode/3.review-mode-set3.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "mock/az-400/tutorialsdojo/review-mode/image": {
-      "children": [
-        "mock/az-400/tutorialsdojo/review-mode/image/1.review-mode-set1",
-        "mock/az-400/tutorialsdojo/review-mode/image/2.review-mode-set2",
-        "mock/az-400/tutorialsdojo/review-mode/image/3.review-mode-set3"
-      ],
-      "sortOrder": "custom"
-    },
-    "mock/az-400/tutorialsdojo/review-mode/image/1.review-mode-set1": {
-      "children": [
-        "mock/az-400/tutorialsdojo/review-mode/image/1.review-mode-set1/1757354011894.png",
-        "mock/az-400/tutorialsdojo/review-mode/image/1.review-mode-set1/1757421989331.png",
-        "mock/az-400/tutorialsdojo/review-mode/image/1.review-mode-set1/1757422532728.png",
-        "mock/az-400/tutorialsdojo/review-mode/image/1.review-mode-set1/1757422563831.png",
-        "mock/az-400/tutorialsdojo/review-mode/image/1.review-mode-set1/1757424441572.png",
-        "mock/az-400/tutorialsdojo/review-mode/image/1.review-mode-set1/1757424518580.png",
-        "mock/az-400/tutorialsdojo/review-mode/image/1.review-mode-set1/1757426293406.png",
-        "mock/az-400/tutorialsdojo/review-mode/image/1.review-mode-set1/1757426648772.png",
-        "mock/az-400/tutorialsdojo/review-mode/image/1.review-mode-set1/1757431342039.png",
-        "mock/az-400/tutorialsdojo/review-mode/image/1.review-mode-set1/1757432560713.png",
-        "mock/az-400/tutorialsdojo/review-mode/image/1.review-mode-set1/1757432607343.png",
-        "mock/az-400/tutorialsdojo/review-mode/image/1.review-mode-set1/1757433217387.png",
-        "mock/az-400/tutorialsdojo/review-mode/image/1.review-mode-set1/1757435213246.png",
-        "mock/az-400/tutorialsdojo/review-mode/image/1.review-mode-set1/1757436454919.png",
-        "mock/az-400/tutorialsdojo/review-mode/image/1.review-mode-set1/1757436747499.png",
-        "mock/az-400/tutorialsdojo/review-mode/image/1.review-mode-set1/1757437863637.png",
-        "mock/az-400/tutorialsdojo/review-mode/image/1.review-mode-set1/1757439005470.png",
-        "mock/az-400/tutorialsdojo/review-mode/image/1.review-mode-set1/1757439678483.png",
-        "mock/az-400/tutorialsdojo/review-mode/image/1.review-mode-set1/1757439791924.png",
-        "mock/az-400/tutorialsdojo/review-mode/image/1.review-mode-set1/1757442106152.png",
-        "mock/az-400/tutorialsdojo/review-mode/image/1.review-mode-set1/1757442640876.png",
-        "mock/az-400/tutorialsdojo/review-mode/image/1.review-mode-set1/1757442687191.png",
-        "mock/az-400/tutorialsdojo/review-mode/image/1.review-mode-set1/1757444991175.png",
-        "mock/az-400/tutorialsdojo/review-mode/image/1.review-mode-set1/1757445706379.png",
-        "mock/az-400/tutorialsdojo/review-mode/image/1.review-mode-set1/1757447672647.png",
-        "mock/az-400/tutorialsdojo/review-mode/image/1.review-mode-set1/1757447693308.png",
-        "mock/az-400/tutorialsdojo/review-mode/image/1.review-mode-set1/1757447967735.png",
-        "mock/az-400/tutorialsdojo/review-mode/image/1.review-mode-set1/1757447999858.png",
-        "mock/az-400/tutorialsdojo/review-mode/image/1.review-mode-set1/1757448098742.png",
-        "mock/az-400/tutorialsdojo/review-mode/image/1.review-mode-set1/1757448132862.png"
-      ],
-      "sortOrder": "custom"
-    },
-    "mock/az-400/tutorialsdojo/review-mode/image/2.review-mode-set2": {
-      "children": [
-        "mock/az-400/tutorialsdojo/review-mode/image/2.review-mode-set2/1757448694640.png",
-        "mock/az-400/tutorialsdojo/review-mode/image/2.review-mode-set2/1757453459379.png",
-        "mock/az-400/tutorialsdojo/review-mode/image/2.review-mode-set2/1757454362064.png",
-        "mock/az-400/tutorialsdojo/review-mode/image/2.review-mode-set2/1757455835591.png",
-        "mock/az-400/tutorialsdojo/review-mode/image/2.review-mode-set2/1757456393305.png",
-        "mock/az-400/tutorialsdojo/review-mode/image/2.review-mode-set2/1757458182442.png",
-        "mock/az-400/tutorialsdojo/review-mode/image/2.review-mode-set2/1757458257622.png",
-        "mock/az-400/tutorialsdojo/review-mode/image/2.review-mode-set2/1757459576413.png",
-        "mock/az-400/tutorialsdojo/review-mode/image/2.review-mode-set2/1757459981452.png",
-        "mock/az-400/tutorialsdojo/review-mode/image/2.review-mode-set2/1757460058056.png",
-        "mock/az-400/tutorialsdojo/review-mode/image/2.review-mode-set2/1757460729259.png",
-        "mock/az-400/tutorialsdojo/review-mode/image/2.review-mode-set2/1757462512766.png",
-        "mock/az-400/tutorialsdojo/review-mode/image/2.review-mode-set2/1757464078981.png",
-        "mock/az-400/tutorialsdojo/review-mode/image/2.review-mode-set2/1757464396047.png",
-        "mock/az-400/tutorialsdojo/review-mode/image/2.review-mode-set2/1757464646557.png",
-        "mock/az-400/tutorialsdojo/review-mode/image/2.review-mode-set2/1757464707601.png",
-        "mock/az-400/tutorialsdojo/review-mode/image/2.review-mode-set2/1757464911958.png",
-        "mock/az-400/tutorialsdojo/review-mode/image/2.review-mode-set2/1757464941326.png",
-        "mock/az-400/tutorialsdojo/review-mode/image/2.review-mode-set2/1757490290450.png",
-        "mock/az-400/tutorialsdojo/review-mode/image/2.review-mode-set2/1757490389521.png",
-        "mock/az-400/tutorialsdojo/review-mode/image/2.review-mode-set2/1757490665277.png",
-        "mock/az-400/tutorialsdojo/review-mode/image/2.review-mode-set2/1757490758952.png",
-        "mock/az-400/tutorialsdojo/review-mode/image/2.review-mode-set2/1757499998083.png",
-        "mock/az-400/tutorialsdojo/review-mode/image/2.review-mode-set2/1757503702320.png",
-        "mock/az-400/tutorialsdojo/review-mode/image/2.review-mode-set2/1757504162349.png",
-        "mock/az-400/tutorialsdojo/review-mode/image/2.review-mode-set2/1757504210005.png",
-        "mock/az-400/tutorialsdojo/review-mode/image/2.review-mode-set2/1757504483593.png",
-        "mock/az-400/tutorialsdojo/review-mode/image/2.review-mode-set2/1757504489929.png",
-        "mock/az-400/tutorialsdojo/review-mode/image/2.review-mode-set2/1757504505912.png"
-      ],
-      "sortOrder": "custom"
-    },
-    "mock/az-400/tutorialsdojo/review-mode/image/3.review-mode-set3": {
-      "children": [
-        "mock/az-400/tutorialsdojo/review-mode/image/3.review-mode-set3/1757506085466.png",
-        "mock/az-400/tutorialsdojo/review-mode/image/3.review-mode-set3/1757506122381.png",
-        "mock/az-400/tutorialsdojo/review-mode/image/3.review-mode-set3/1757508393985.png",
-        "mock/az-400/tutorialsdojo/review-mode/image/3.review-mode-set3/1757508868581.png",
-        "mock/az-400/tutorialsdojo/review-mode/image/3.review-mode-set3/1757508891484.png",
-        "mock/az-400/tutorialsdojo/review-mode/image/3.review-mode-set3/1757509483215.png",
-        "mock/az-400/tutorialsdojo/review-mode/image/3.review-mode-set3/1757509533615.png",
-        "mock/az-400/tutorialsdojo/review-mode/image/3.review-mode-set3/1757510211090.png"
-      ],
-      "sortOrder": "custom"
-    },
-    "mock/az-400/varun_sharma": {
-      "children": [
-        "mock/az-400/varun_sharma/image",
-        "mock/az-400/varun_sharma/practice-test-1.md",
-        "mock/az-400/varun_sharma/practice-test-2.md",
-        "mock/az-400/varun_sharma/practice-test-3.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "mock/az-400/varun_sharma/image": {
-      "children": [
-        "mock/az-400/varun_sharma/image/practice-test-1",
-        "mock/az-400/varun_sharma/image/practice-test-2",
-        "mock/az-400/varun_sharma/image/practice-test-3"
-      ],
-      "sortOrder": "custom"
-    },
-    "mock/az-400/varun_sharma/image/practice-test-1": {
-      "children": [
-        "mock/az-400/varun_sharma/image/practice-test-1/1756635089893.png",
-        "mock/az-400/varun_sharma/image/practice-test-1/1756636403955.png",
-        "mock/az-400/varun_sharma/image/practice-test-1/1756639978026.png",
-        "mock/az-400/varun_sharma/image/practice-test-1/1756653987829.png",
-        "mock/az-400/varun_sharma/image/practice-test-1/1756654168147.png",
-        "mock/az-400/varun_sharma/image/practice-test-1/1756654301163.png",
-        "mock/az-400/varun_sharma/image/practice-test-1/1756667201330.png",
-        "mock/az-400/varun_sharma/image/practice-test-1/1756669650941.png",
-        "mock/az-400/varun_sharma/image/practice-test-1/1756669831190.png",
-        "mock/az-400/varun_sharma/image/practice-test-1/1756670276979.png",
-        "mock/az-400/varun_sharma/image/practice-test-1/1756670951636.png",
-        "mock/az-400/varun_sharma/image/practice-test-1/1756671693141.png",
-        "mock/az-400/varun_sharma/image/practice-test-1/1756675463592.png",
-        "mock/az-400/varun_sharma/image/practice-test-1/1756675627856.png",
-        "mock/az-400/varun_sharma/image/practice-test-1/1756675716739.png",
-        "mock/az-400/varun_sharma/image/practice-test-1/1756676645159.png"
-      ],
-      "sortOrder": "custom"
-    },
-    "mock/az-400/varun_sharma/image/practice-test-2": {
-      "children": [
-        "mock/az-400/varun_sharma/image/practice-test-2/1757273075120.png",
-        "mock/az-400/varun_sharma/image/practice-test-2/1757273119731.png",
-        "mock/az-400/varun_sharma/image/practice-test-2/1757274214449.png",
-        "mock/az-400/varun_sharma/image/practice-test-2/1757274350450.png",
-        "mock/az-400/varun_sharma/image/practice-test-2/1757325429697.png",
-        "mock/az-400/varun_sharma/image/practice-test-2/1757333392433.png",
-        "mock/az-400/varun_sharma/image/practice-test-2/1757335121289.png",
-        "mock/az-400/varun_sharma/image/practice-test-2/1757338467660.png",
-        "mock/az-400/varun_sharma/image/practice-test-2/1757338980768.png",
-        "mock/az-400/varun_sharma/image/practice-test-2/1757339622753.png",
-        "mock/az-400/varun_sharma/image/practice-test-2/1757340072468.png",
-        "mock/az-400/varun_sharma/image/practice-test-2/1757340179486.png",
-        "mock/az-400/varun_sharma/image/practice-test-2/1757340468601.png",
-        "mock/az-400/varun_sharma/image/practice-test-2/1757340892930.png"
-      ],
-      "sortOrder": "custom"
-    },
-    "mock/az-400/varun_sharma/image/practice-test-3": {
-      "children": [
-        "mock/az-400/varun_sharma/image/practice-test-3/1757345538617.png",
-        "mock/az-400/varun_sharma/image/practice-test-3/1757347131124.png",
-        "mock/az-400/varun_sharma/image/practice-test-3/1757347776877.png",
-        "mock/az-400/varun_sharma/image/practice-test-3/1757347787503.png",
-        "mock/az-400/varun_sharma/image/practice-test-3/1757348889543.png"
-      ],
-      "sortOrder": "custom"
-    },
-    "mock/resources": {
-      "children": [
-        "mock/resources/az-104-labs.txt",
-        "mock/resources/az-204-labs.txt",
-        "mock/resources/az-305-labs.txt",
-        "mock/resources/az-400-labs.txt",
-        "mock/resources/kodekloud-notes.md",
-        "mock/resources/README.md"
-      ],
-      "sortOrder": "custom"
-    },
     "other": {
       "children": [
         "other/advanced-networking",
@@ -4357,6 +3687,676 @@
         "trash/images/resource-locks.png",
         "trash/images/SSPR.png",
         "trash/images/user-accounts.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "exams": {
+      "children": [
+        "exams/az-104",
+        "exams/az-204",
+        "exams/az-305",
+        "exams/az-400",
+        "exams/resources"
+      ],
+      "sortOrder": "custom"
+    },
+    "exams/az-104": {
+      "children": [
+        "exams/az-104/exams",
+        "exams/az-104/quizs"
+      ],
+      "sortOrder": "custom"
+    },
+    "exams/az-104/exams": {
+      "children": [
+        "exams/az-104/exams/varun_sharma",
+        "exams/az-104/exams/references.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "exams/az-104/exams/varun_sharma": {
+      "children": [
+        "exams/az-104/exams/varun_sharma/image",
+        "exams/az-104/exams/varun_sharma/practise-test-1.md",
+        "exams/az-104/exams/varun_sharma/practise-test-2.md",
+        "exams/az-104/exams/varun_sharma/practise-test-3.md",
+        "exams/az-104/exams/varun_sharma/practise-test-4.md",
+        "exams/az-104/exams/varun_sharma/practise-test-5.md",
+        "exams/az-104/exams/varun_sharma/practise-test-6.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "exams/az-104/exams/varun_sharma/image": {
+      "children": [
+        "exams/az-104/exams/varun_sharma/image/practise-test-1",
+        "exams/az-104/exams/varun_sharma/image/practise-test-3",
+        "exams/az-104/exams/varun_sharma/image/practise-test-4",
+        "exams/az-104/exams/varun_sharma/image/practise-test-5",
+        "exams/az-104/exams/varun_sharma/image/practise-test-6"
+      ],
+      "sortOrder": "custom"
+    },
+    "exams/az-104/exams/varun_sharma/image/practise-test-1": {
+      "children": [
+        "exams/az-104/exams/varun_sharma/image/practise-test-1/1756104250487.png",
+        "exams/az-104/exams/varun_sharma/image/practise-test-1/1756104475682.png",
+        "exams/az-104/exams/varun_sharma/image/practise-test-1/1756106106751.png",
+        "exams/az-104/exams/varun_sharma/image/practise-test-1/1756106352901.png",
+        "exams/az-104/exams/varun_sharma/image/practise-test-1/ex1-q2.png",
+        "exams/az-104/exams/varun_sharma/image/practise-test-1/ex1-q5.png",
+        "exams/az-104/exams/varun_sharma/image/practise-test-1/ex1-q11.png",
+        "exams/az-104/exams/varun_sharma/image/practise-test-1/ex1-q11-1.png",
+        "exams/az-104/exams/varun_sharma/image/practise-test-1/ex1-q14.png",
+        "exams/az-104/exams/varun_sharma/image/practise-test-1/ex1-q25.png",
+        "exams/az-104/exams/varun_sharma/image/practise-test-1/ex1-q27.png",
+        "exams/az-104/exams/varun_sharma/image/practise-test-1/ex1-q28.png",
+        "exams/az-104/exams/varun_sharma/image/practise-test-1/ex1-q37.png",
+        "exams/az-104/exams/varun_sharma/image/practise-test-1/ex1-q39.png",
+        "exams/az-104/exams/varun_sharma/image/practise-test-1/ex1-q50.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "exams/az-104/exams/varun_sharma/image/practise-test-3": {
+      "children": [
+        "exams/az-104/exams/varun_sharma/image/practise-test-3/1756062982103.png",
+        "exams/az-104/exams/varun_sharma/image/practise-test-3/1756064336917.png",
+        "exams/az-104/exams/varun_sharma/image/practise-test-3/1756065133534.png",
+        "exams/az-104/exams/varun_sharma/image/practise-test-3/1756065142682.png",
+        "exams/az-104/exams/varun_sharma/image/practise-test-3/1756065597168.png",
+        "exams/az-104/exams/varun_sharma/image/practise-test-3/1756068080809.png",
+        "exams/az-104/exams/varun_sharma/image/practise-test-3/1756068544655.png",
+        "exams/az-104/exams/varun_sharma/image/practise-test-3/1756070116303.png",
+        "exams/az-104/exams/varun_sharma/image/practise-test-3/1756070219063.png",
+        "exams/az-104/exams/varun_sharma/image/practise-test-3/1756076904902.png",
+        "exams/az-104/exams/varun_sharma/image/practise-test-3/1756077116865.png",
+        "exams/az-104/exams/varun_sharma/image/practise-test-3/1756077282894.png",
+        "exams/az-104/exams/varun_sharma/image/practise-test-3/1756077374975.png",
+        "exams/az-104/exams/varun_sharma/image/practise-test-3/1756077547874.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "exams/az-104/exams/varun_sharma/image/practise-test-4": {
+      "children": [
+        "exams/az-104/exams/varun_sharma/image/practise-test-4/1756053989962.png",
+        "exams/az-104/exams/varun_sharma/image/practise-test-4/1756054251493.png",
+        "exams/az-104/exams/varun_sharma/image/practise-test-4/1756054833207.png",
+        "exams/az-104/exams/varun_sharma/image/practise-test-4/1756054848523.png",
+        "exams/az-104/exams/varun_sharma/image/practise-test-4/1756054998414.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "exams/az-104/exams/varun_sharma/image/practise-test-5": {
+      "children": [
+        "exams/az-104/exams/varun_sharma/image/practise-test-5/1756059632366.png",
+        "exams/az-104/exams/varun_sharma/image/practise-test-5/1756059713248.png",
+        "exams/az-104/exams/varun_sharma/image/practise-test-5/1756059926415.png",
+        "exams/az-104/exams/varun_sharma/image/practise-test-5/1756060075562.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "exams/az-104/exams/varun_sharma/image/practise-test-6": {
+      "children": [
+        "exams/az-104/exams/varun_sharma/image/practise-test-6/1756060406296.png",
+        "exams/az-104/exams/varun_sharma/image/practise-test-6/1756060687006.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "exams/az-104/quizs": {
+      "children": [
+        "exams/az-104/quizs/images",
+        "exams/az-104/quizs/1.qz.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "exams/az-104/quizs/images": {
+      "children": [
+        "exams/az-104/quizs/images/dynamic-ip.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "exams/az-204": {
+      "children": [
+        "exams/az-204/kodekloud",
+        "exams/az-204/tutorialsdojo",
+        "exams/az-204/references.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "exams/az-204/kodekloud": {
+      "children": [
+        "exams/az-204/kodekloud/image",
+        "exams/az-204/kodekloud/mock-exam-1.md",
+        "exams/az-204/kodekloud/mock-exam-2.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "exams/az-204/kodekloud/image": {
+      "children": [
+        "exams/az-204/kodekloud/image/mock-exam-1",
+        "exams/az-204/kodekloud/image/mock-exam-2"
+      ],
+      "sortOrder": "custom"
+    },
+    "exams/az-204/kodekloud/image/mock-exam-1": {
+      "children": [
+        "exams/az-204/kodekloud/image/mock-exam-1/1759060714398.png",
+        "exams/az-204/kodekloud/image/mock-exam-1/1759060809391.png",
+        "exams/az-204/kodekloud/image/mock-exam-1/1759061120088.png",
+        "exams/az-204/kodekloud/image/mock-exam-1/1759061517581.png",
+        "exams/az-204/kodekloud/image/mock-exam-1/1759062099314.png",
+        "exams/az-204/kodekloud/image/mock-exam-1/1759062525819.png",
+        "exams/az-204/kodekloud/image/mock-exam-1/1759093744210.png",
+        "exams/az-204/kodekloud/image/mock-exam-1/1759100486793.png",
+        "exams/az-204/kodekloud/image/mock-exam-1/1759113837739.png",
+        "exams/az-204/kodekloud/image/mock-exam-1/1759115799997.png",
+        "exams/az-204/kodekloud/image/mock-exam-1/1759116122300.png",
+        "exams/az-204/kodekloud/image/mock-exam-1/1759116977736.png",
+        "exams/az-204/kodekloud/image/mock-exam-1/1759143338902.png",
+        "exams/az-204/kodekloud/image/mock-exam-1/1759143345908.png",
+        "exams/az-204/kodekloud/image/mock-exam-1/1759143364787.png",
+        "exams/az-204/kodekloud/image/mock-exam-1/1759159315983.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "exams/az-204/kodekloud/image/mock-exam-2": {
+      "children": [
+        "exams/az-204/kodekloud/image/mock-exam-2/1759183790515.png",
+        "exams/az-204/kodekloud/image/mock-exam-2/1759184759726.png",
+        "exams/az-204/kodekloud/image/mock-exam-2/1759184785509.png",
+        "exams/az-204/kodekloud/image/mock-exam-2/1759185041489.png",
+        "exams/az-204/kodekloud/image/mock-exam-2/1759185045795.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "exams/az-204/tutorialsdojo": {
+      "children": [
+        "exams/az-204/tutorialsdojo/diagnostic-tests",
+        "exams/az-204/tutorialsdojo/review-mode"
+      ],
+      "sortOrder": "custom"
+    },
+    "exams/az-204/tutorialsdojo/diagnostic-tests": {
+      "children": [
+        "exams/az-204/tutorialsdojo/diagnostic-tests/image",
+        "exams/az-204/tutorialsdojo/diagnostic-tests/1.time-mode-diagnostic-test.md",
+        "exams/az-204/tutorialsdojo/diagnostic-tests/2.review-mode-diagnostic-test.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "exams/az-204/tutorialsdojo/diagnostic-tests/image": {
+      "children": [
+        "exams/az-204/tutorialsdojo/diagnostic-tests/image/1.time-mode-diagnostic-test",
+        "exams/az-204/tutorialsdojo/diagnostic-tests/image/2.review-mode-diagnostic-test"
+      ],
+      "sortOrder": "custom"
+    },
+    "exams/az-204/tutorialsdojo/diagnostic-tests/image/1.time-mode-diagnostic-test": {
+      "children": [
+        "exams/az-204/tutorialsdojo/diagnostic-tests/image/1.time-mode-diagnostic-test/1759358091931.png",
+        "exams/az-204/tutorialsdojo/diagnostic-tests/image/1.time-mode-diagnostic-test/1759369134609.png",
+        "exams/az-204/tutorialsdojo/diagnostic-tests/image/1.time-mode-diagnostic-test/1759369697163.png",
+        "exams/az-204/tutorialsdojo/diagnostic-tests/image/1.time-mode-diagnostic-test/1759369888835.png",
+        "exams/az-204/tutorialsdojo/diagnostic-tests/image/1.time-mode-diagnostic-test/1759370006060.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "exams/az-204/tutorialsdojo/diagnostic-tests/image/2.review-mode-diagnostic-test": {
+      "children": [
+        "exams/az-204/tutorialsdojo/diagnostic-tests/image/2.review-mode-diagnostic-test/1757353884691.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "exams/az-204/tutorialsdojo/review-mode": {
+      "children": [
+        "exams/az-204/tutorialsdojo/review-mode/image",
+        "exams/az-204/tutorialsdojo/review-mode/1.review-mode-set1.md",
+        "exams/az-204/tutorialsdojo/review-mode/2.review-mode-set2.md",
+        "exams/az-204/tutorialsdojo/review-mode/3.review-mode-set3.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "exams/az-204/tutorialsdojo/review-mode/image": {
+      "children": [
+        "exams/az-204/tutorialsdojo/review-mode/image/1.review-mode-set1",
+        "exams/az-204/tutorialsdojo/review-mode/image/2.review-mode-set2",
+        "exams/az-204/tutorialsdojo/review-mode/image/3.review-mode-set3"
+      ],
+      "sortOrder": "custom"
+    },
+    "exams/az-204/tutorialsdojo/review-mode/image/1.review-mode-set1": {
+      "children": [
+        "exams/az-204/tutorialsdojo/review-mode/image/1.review-mode-set1/1757354011894.png",
+        "exams/az-204/tutorialsdojo/review-mode/image/1.review-mode-set1/1759422076434.png",
+        "exams/az-204/tutorialsdojo/review-mode/image/1.review-mode-set1/1759422562123.png",
+        "exams/az-204/tutorialsdojo/review-mode/image/1.review-mode-set1/1759422719850.png",
+        "exams/az-204/tutorialsdojo/review-mode/image/1.review-mode-set1/1759423565265.png",
+        "exams/az-204/tutorialsdojo/review-mode/image/1.review-mode-set1/1759427542045.png",
+        "exams/az-204/tutorialsdojo/review-mode/image/1.review-mode-set1/1759427853653.png",
+        "exams/az-204/tutorialsdojo/review-mode/image/1.review-mode-set1/1759435690008.png",
+        "exams/az-204/tutorialsdojo/review-mode/image/1.review-mode-set1/1759435822344.png",
+        "exams/az-204/tutorialsdojo/review-mode/image/1.review-mode-set1/1759439650378.png",
+        "exams/az-204/tutorialsdojo/review-mode/image/1.review-mode-set1/1759439988601.png",
+        "exams/az-204/tutorialsdojo/review-mode/image/1.review-mode-set1/1759440018495.png",
+        "exams/az-204/tutorialsdojo/review-mode/image/1.review-mode-set1/1759440897928.png",
+        "exams/az-204/tutorialsdojo/review-mode/image/1.review-mode-set1/1759443150106.png",
+        "exams/az-204/tutorialsdojo/review-mode/image/1.review-mode-set1/1759443305905.png",
+        "exams/az-204/tutorialsdojo/review-mode/image/1.review-mode-set1/1759443933625.png",
+        "exams/az-204/tutorialsdojo/review-mode/image/1.review-mode-set1/1759443987203.png",
+        "exams/az-204/tutorialsdojo/review-mode/image/1.review-mode-set1/1759444788004.png",
+        "exams/az-204/tutorialsdojo/review-mode/image/1.review-mode-set1/1759444824698.png",
+        "exams/az-204/tutorialsdojo/review-mode/image/1.review-mode-set1/1759446608396.png",
+        "exams/az-204/tutorialsdojo/review-mode/image/1.review-mode-set1/1759447986800.png",
+        "exams/az-204/tutorialsdojo/review-mode/image/1.review-mode-set1/1759448044924.png",
+        "exams/az-204/tutorialsdojo/review-mode/image/1.review-mode-set1/1759448417636.png",
+        "exams/az-204/tutorialsdojo/review-mode/image/1.review-mode-set1/1759448421629.png",
+        "exams/az-204/tutorialsdojo/review-mode/image/1.review-mode-set1/1759449134566.png",
+        "exams/az-204/tutorialsdojo/review-mode/image/1.review-mode-set1/1759449157018.png",
+        "exams/az-204/tutorialsdojo/review-mode/image/1.review-mode-set1/1759449792800.png",
+        "exams/az-204/tutorialsdojo/review-mode/image/1.review-mode-set1/1759449926343.png",
+        "exams/az-204/tutorialsdojo/review-mode/image/1.review-mode-set1/1759450882833.png",
+        "exams/az-204/tutorialsdojo/review-mode/image/1.review-mode-set1/1759451952871.png",
+        "exams/az-204/tutorialsdojo/review-mode/image/1.review-mode-set1/1759452479221.png",
+        "exams/az-204/tutorialsdojo/review-mode/image/1.review-mode-set1/1759453155133.png",
+        "exams/az-204/tutorialsdojo/review-mode/image/1.review-mode-set1/1759455790790.png",
+        "exams/az-204/tutorialsdojo/review-mode/image/1.review-mode-set1/1759456288765.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "exams/az-204/tutorialsdojo/review-mode/image/2.review-mode-set2": {
+      "children": [
+        "exams/az-204/tutorialsdojo/review-mode/image/2.review-mode-set2/1757448694640.png",
+        "exams/az-204/tutorialsdojo/review-mode/image/2.review-mode-set2/1759498515945.png",
+        "exams/az-204/tutorialsdojo/review-mode/image/2.review-mode-set2/1759500857948.png",
+        "exams/az-204/tutorialsdojo/review-mode/image/2.review-mode-set2/1759503362883.png",
+        "exams/az-204/tutorialsdojo/review-mode/image/2.review-mode-set2/1759504569600.png",
+        "exams/az-204/tutorialsdojo/review-mode/image/2.review-mode-set2/1759506552783.png",
+        "exams/az-204/tutorialsdojo/review-mode/image/2.review-mode-set2/1759510521586.png",
+        "exams/az-204/tutorialsdojo/review-mode/image/2.review-mode-set2/1759510581593.png",
+        "exams/az-204/tutorialsdojo/review-mode/image/2.review-mode-set2/1759513947485.png",
+        "exams/az-204/tutorialsdojo/review-mode/image/2.review-mode-set2/1759532420443.png",
+        "exams/az-204/tutorialsdojo/review-mode/image/2.review-mode-set2/1759534636193.png",
+        "exams/az-204/tutorialsdojo/review-mode/image/2.review-mode-set2/1759535623718.png",
+        "exams/az-204/tutorialsdojo/review-mode/image/2.review-mode-set2/1759536180520.png",
+        "exams/az-204/tutorialsdojo/review-mode/image/2.review-mode-set2/1759536238555.png",
+        "exams/az-204/tutorialsdojo/review-mode/image/2.review-mode-set2/1759570222360.png",
+        "exams/az-204/tutorialsdojo/review-mode/image/2.review-mode-set2/1759574799768.png",
+        "exams/az-204/tutorialsdojo/review-mode/image/2.review-mode-set2/1759575933250.png",
+        "exams/az-204/tutorialsdojo/review-mode/image/2.review-mode-set2/1759576341082.png",
+        "exams/az-204/tutorialsdojo/review-mode/image/2.review-mode-set2/1759576974789.png",
+        "exams/az-204/tutorialsdojo/review-mode/image/2.review-mode-set2/1759578237863.png",
+        "exams/az-204/tutorialsdojo/review-mode/image/2.review-mode-set2/1759579031998.png",
+        "exams/az-204/tutorialsdojo/review-mode/image/2.review-mode-set2/1759581798056.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "exams/az-204/tutorialsdojo/review-mode/image/3.review-mode-set3": {
+      "children": [
+        "exams/az-204/tutorialsdojo/review-mode/image/3.review-mode-set3/1757506085466.png",
+        "exams/az-204/tutorialsdojo/review-mode/image/3.review-mode-set3/1759582943032.png",
+        "exams/az-204/tutorialsdojo/review-mode/image/3.review-mode-set3/1759582961843.png",
+        "exams/az-204/tutorialsdojo/review-mode/image/3.review-mode-set3/1759583872110.png",
+        "exams/az-204/tutorialsdojo/review-mode/image/3.review-mode-set3/1759584848582.png",
+        "exams/az-204/tutorialsdojo/review-mode/image/3.review-mode-set3/1759585750779.png",
+        "exams/az-204/tutorialsdojo/review-mode/image/3.review-mode-set3/1759585782391.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "exams/az-305": {
+      "children": [
+        "exams/az-305/kodekloud",
+        "exams/az-305/tutorialsdojo",
+        "exams/az-305/references.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "exams/az-305/kodekloud": {
+      "children": [
+        "exams/az-305/kodekloud/image",
+        "exams/az-305/kodekloud/mock-exam-1.md",
+        "exams/az-305/kodekloud/mock-exam-2.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "exams/az-305/kodekloud/image": {
+      "children": [
+        "exams/az-305/kodekloud/image/mock-exam-1",
+        "exams/az-305/kodekloud/image/mock-exam-2"
+      ],
+      "sortOrder": "custom"
+    },
+    "exams/az-305/kodekloud/image/mock-exam-1": {
+      "children": [
+        "exams/az-305/kodekloud/image/mock-exam-1/1759060714398.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "exams/az-305/kodekloud/image/mock-exam-2": {
+      "children": [
+        "exams/az-305/kodekloud/image/mock-exam-2/1759183790515.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "exams/az-305/tutorialsdojo": {
+      "children": [
+        "exams/az-305/tutorialsdojo/diagnostic-tests",
+        "exams/az-305/tutorialsdojo/review-mode"
+      ],
+      "sortOrder": "custom"
+    },
+    "exams/az-305/tutorialsdojo/diagnostic-tests": {
+      "children": [
+        "exams/az-305/tutorialsdojo/diagnostic-tests/image",
+        "exams/az-305/tutorialsdojo/diagnostic-tests/1.time-mode-diagnostic-test.md",
+        "exams/az-305/tutorialsdojo/diagnostic-tests/2.review-mode-diagnostic-test.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "exams/az-305/tutorialsdojo/diagnostic-tests/image": {
+      "children": [
+        "exams/az-305/tutorialsdojo/diagnostic-tests/image/1.time-mode-diagnostic-test",
+        "exams/az-305/tutorialsdojo/diagnostic-tests/image/2.review-mode-diagnostic-test"
+      ],
+      "sortOrder": "custom"
+    },
+    "exams/az-305/tutorialsdojo/diagnostic-tests/image/1.time-mode-diagnostic-test": {
+      "children": [
+        "exams/az-305/tutorialsdojo/diagnostic-tests/image/1.time-mode-diagnostic-test/1759358091931.png",
+        "exams/az-305/tutorialsdojo/diagnostic-tests/image/1.time-mode-diagnostic-test/1759828967198.png",
+        "exams/az-305/tutorialsdojo/diagnostic-tests/image/1.time-mode-diagnostic-test/1759829522693.png",
+        "exams/az-305/tutorialsdojo/diagnostic-tests/image/1.time-mode-diagnostic-test/1759830455011.png",
+        "exams/az-305/tutorialsdojo/diagnostic-tests/image/1.time-mode-diagnostic-test/1759831141290.png",
+        "exams/az-305/tutorialsdojo/diagnostic-tests/image/1.time-mode-diagnostic-test/1759845812036.png",
+        "exams/az-305/tutorialsdojo/diagnostic-tests/image/1.time-mode-diagnostic-test/1759845861299.png",
+        "exams/az-305/tutorialsdojo/diagnostic-tests/image/1.time-mode-diagnostic-test/1759856859272.png",
+        "exams/az-305/tutorialsdojo/diagnostic-tests/image/1.time-mode-diagnostic-test/1759857432985.png",
+        "exams/az-305/tutorialsdojo/diagnostic-tests/image/1.time-mode-diagnostic-test/1759864563358.png",
+        "exams/az-305/tutorialsdojo/diagnostic-tests/image/1.time-mode-diagnostic-test/1759864598792.png",
+        "exams/az-305/tutorialsdojo/diagnostic-tests/image/1.time-mode-diagnostic-test/1759864658902.png",
+        "exams/az-305/tutorialsdojo/diagnostic-tests/image/1.time-mode-diagnostic-test/1759864665261.png",
+        "exams/az-305/tutorialsdojo/diagnostic-tests/image/1.time-mode-diagnostic-test/1759865169989.png",
+        "exams/az-305/tutorialsdojo/diagnostic-tests/image/1.time-mode-diagnostic-test/1759865268286.png",
+        "exams/az-305/tutorialsdojo/diagnostic-tests/image/1.time-mode-diagnostic-test/1759865536164.png",
+        "exams/az-305/tutorialsdojo/diagnostic-tests/image/1.time-mode-diagnostic-test/1759865559661.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "exams/az-305/tutorialsdojo/diagnostic-tests/image/2.review-mode-diagnostic-test": {
+      "children": [
+        "exams/az-305/tutorialsdojo/diagnostic-tests/image/2.review-mode-diagnostic-test/1757353884691.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "exams/az-305/tutorialsdojo/review-mode": {
+      "children": [
+        "exams/az-305/tutorialsdojo/review-mode/image",
+        "exams/az-305/tutorialsdojo/review-mode/1.review-mode-set1.md",
+        "exams/az-305/tutorialsdojo/review-mode/2.review-mode-set2.md",
+        "exams/az-305/tutorialsdojo/review-mode/3.review-mode-set3.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "exams/az-305/tutorialsdojo/review-mode/image": {
+      "children": [
+        "exams/az-305/tutorialsdojo/review-mode/image/1.review-mode-set1",
+        "exams/az-305/tutorialsdojo/review-mode/image/2.review-mode-set2",
+        "exams/az-305/tutorialsdojo/review-mode/image/3.review-mode-set3"
+      ],
+      "sortOrder": "custom"
+    },
+    "exams/az-305/tutorialsdojo/review-mode/image/1.review-mode-set1": {
+      "children": [
+        "exams/az-305/tutorialsdojo/review-mode/image/1.review-mode-set1/1757354011894.png",
+        "exams/az-305/tutorialsdojo/review-mode/image/1.review-mode-set1/1760028763647.png",
+        "exams/az-305/tutorialsdojo/review-mode/image/1.review-mode-set1/1760029206990.png",
+        "exams/az-305/tutorialsdojo/review-mode/image/1.review-mode-set1/1760031958257.png",
+        "exams/az-305/tutorialsdojo/review-mode/image/1.review-mode-set1/1760032477090.png",
+        "exams/az-305/tutorialsdojo/review-mode/image/1.review-mode-set1/1760032489649.png",
+        "exams/az-305/tutorialsdojo/review-mode/image/1.review-mode-set1/1760033532073.png",
+        "exams/az-305/tutorialsdojo/review-mode/image/1.review-mode-set1/1760033544977.png",
+        "exams/az-305/tutorialsdojo/review-mode/image/1.review-mode-set1/1760034266833.png",
+        "exams/az-305/tutorialsdojo/review-mode/image/1.review-mode-set1/1760037735421.png",
+        "exams/az-305/tutorialsdojo/review-mode/image/1.review-mode-set1/1760037936485.png",
+        "exams/az-305/tutorialsdojo/review-mode/image/1.review-mode-set1/1760053929037.png",
+        "exams/az-305/tutorialsdojo/review-mode/image/1.review-mode-set1/1760054587036.png",
+        "exams/az-305/tutorialsdojo/review-mode/image/1.review-mode-set1/1760055609907.png",
+        "exams/az-305/tutorialsdojo/review-mode/image/1.review-mode-set1/1760055952361.png",
+        "exams/az-305/tutorialsdojo/review-mode/image/1.review-mode-set1/1760056068067.png",
+        "exams/az-305/tutorialsdojo/review-mode/image/1.review-mode-set1/1760056506073.png",
+        "exams/az-305/tutorialsdojo/review-mode/image/1.review-mode-set1/1760056792194.png",
+        "exams/az-305/tutorialsdojo/review-mode/image/1.review-mode-set1/1760075701480.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "exams/az-305/tutorialsdojo/review-mode/image/2.review-mode-set2": {
+      "children": [
+        "exams/az-305/tutorialsdojo/review-mode/image/2.review-mode-set2/1757448694640.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "exams/az-305/tutorialsdojo/review-mode/image/3.review-mode-set3": {
+      "children": [
+        "exams/az-305/tutorialsdojo/review-mode/image/3.review-mode-set3/1757506085466.png",
+        "exams/az-305/tutorialsdojo/review-mode/image/3.review-mode-set3/1760050452965.png",
+        "exams/az-305/tutorialsdojo/review-mode/image/3.review-mode-set3/1760050484390.png",
+        "exams/az-305/tutorialsdojo/review-mode/image/3.review-mode-set3/1760050523287.png",
+        "exams/az-305/tutorialsdojo/review-mode/image/3.review-mode-set3/1760051427924.png",
+        "exams/az-305/tutorialsdojo/review-mode/image/3.review-mode-set3/1760051824715.png",
+        "exams/az-305/tutorialsdojo/review-mode/image/3.review-mode-set3/1760051933345.png",
+        "exams/az-305/tutorialsdojo/review-mode/image/3.review-mode-set3/1760052663965.png",
+        "exams/az-305/tutorialsdojo/review-mode/image/3.review-mode-set3/1760052705194.png",
+        "exams/az-305/tutorialsdojo/review-mode/image/3.review-mode-set3/1760052843996.png",
+        "exams/az-305/tutorialsdojo/review-mode/image/3.review-mode-set3/1760053094401.png",
+        "exams/az-305/tutorialsdojo/review-mode/image/3.review-mode-set3/1760053204183.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "exams/az-400": {
+      "children": [
+        "exams/az-400/tutorialsdojo",
+        "exams/az-400/varun_sharma"
+      ],
+      "sortOrder": "custom"
+    },
+    "exams/az-400/tutorialsdojo": {
+      "children": [
+        "exams/az-400/tutorialsdojo/diagnostic-tests",
+        "exams/az-400/tutorialsdojo/review-mode"
+      ],
+      "sortOrder": "custom"
+    },
+    "exams/az-400/tutorialsdojo/diagnostic-tests": {
+      "children": [
+        "exams/az-400/tutorialsdojo/diagnostic-tests/image",
+        "exams/az-400/tutorialsdojo/diagnostic-tests/1.review-mode-diagnostic-test.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "exams/az-400/tutorialsdojo/diagnostic-tests/image": {
+      "children": [
+        "exams/az-400/tutorialsdojo/diagnostic-tests/image/1757353884691.png",
+        "exams/az-400/tutorialsdojo/diagnostic-tests/image/1757354679673.png",
+        "exams/az-400/tutorialsdojo/diagnostic-tests/image/1757355091683.png",
+        "exams/az-400/tutorialsdojo/diagnostic-tests/image/1757355498639.png",
+        "exams/az-400/tutorialsdojo/diagnostic-tests/image/1757355525325.png",
+        "exams/az-400/tutorialsdojo/diagnostic-tests/image/1757355827221.png",
+        "exams/az-400/tutorialsdojo/diagnostic-tests/image/1757365754538.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "exams/az-400/tutorialsdojo/review-mode": {
+      "children": [
+        "exams/az-400/tutorialsdojo/review-mode/image",
+        "exams/az-400/tutorialsdojo/review-mode/1.review-mode-set1.md",
+        "exams/az-400/tutorialsdojo/review-mode/2.review-mode-set2.md",
+        "exams/az-400/tutorialsdojo/review-mode/3.review-mode-set3.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "exams/az-400/tutorialsdojo/review-mode/image": {
+      "children": [
+        "exams/az-400/tutorialsdojo/review-mode/image/1.review-mode-set1",
+        "exams/az-400/tutorialsdojo/review-mode/image/2.review-mode-set2",
+        "exams/az-400/tutorialsdojo/review-mode/image/3.review-mode-set3"
+      ],
+      "sortOrder": "custom"
+    },
+    "exams/az-400/tutorialsdojo/review-mode/image/1.review-mode-set1": {
+      "children": [
+        "exams/az-400/tutorialsdojo/review-mode/image/1.review-mode-set1/1757354011894.png",
+        "exams/az-400/tutorialsdojo/review-mode/image/1.review-mode-set1/1757421989331.png",
+        "exams/az-400/tutorialsdojo/review-mode/image/1.review-mode-set1/1757422532728.png",
+        "exams/az-400/tutorialsdojo/review-mode/image/1.review-mode-set1/1757422563831.png",
+        "exams/az-400/tutorialsdojo/review-mode/image/1.review-mode-set1/1757424441572.png",
+        "exams/az-400/tutorialsdojo/review-mode/image/1.review-mode-set1/1757424518580.png",
+        "exams/az-400/tutorialsdojo/review-mode/image/1.review-mode-set1/1757426293406.png",
+        "exams/az-400/tutorialsdojo/review-mode/image/1.review-mode-set1/1757426648772.png",
+        "exams/az-400/tutorialsdojo/review-mode/image/1.review-mode-set1/1757431342039.png",
+        "exams/az-400/tutorialsdojo/review-mode/image/1.review-mode-set1/1757432560713.png",
+        "exams/az-400/tutorialsdojo/review-mode/image/1.review-mode-set1/1757432607343.png",
+        "exams/az-400/tutorialsdojo/review-mode/image/1.review-mode-set1/1757433217387.png",
+        "exams/az-400/tutorialsdojo/review-mode/image/1.review-mode-set1/1757435213246.png",
+        "exams/az-400/tutorialsdojo/review-mode/image/1.review-mode-set1/1757436454919.png",
+        "exams/az-400/tutorialsdojo/review-mode/image/1.review-mode-set1/1757436747499.png",
+        "exams/az-400/tutorialsdojo/review-mode/image/1.review-mode-set1/1757437863637.png",
+        "exams/az-400/tutorialsdojo/review-mode/image/1.review-mode-set1/1757439005470.png",
+        "exams/az-400/tutorialsdojo/review-mode/image/1.review-mode-set1/1757439678483.png",
+        "exams/az-400/tutorialsdojo/review-mode/image/1.review-mode-set1/1757439791924.png",
+        "exams/az-400/tutorialsdojo/review-mode/image/1.review-mode-set1/1757442106152.png",
+        "exams/az-400/tutorialsdojo/review-mode/image/1.review-mode-set1/1757442640876.png",
+        "exams/az-400/tutorialsdojo/review-mode/image/1.review-mode-set1/1757442687191.png",
+        "exams/az-400/tutorialsdojo/review-mode/image/1.review-mode-set1/1757444991175.png",
+        "exams/az-400/tutorialsdojo/review-mode/image/1.review-mode-set1/1757445706379.png",
+        "exams/az-400/tutorialsdojo/review-mode/image/1.review-mode-set1/1757447672647.png",
+        "exams/az-400/tutorialsdojo/review-mode/image/1.review-mode-set1/1757447693308.png",
+        "exams/az-400/tutorialsdojo/review-mode/image/1.review-mode-set1/1757447967735.png",
+        "exams/az-400/tutorialsdojo/review-mode/image/1.review-mode-set1/1757447999858.png",
+        "exams/az-400/tutorialsdojo/review-mode/image/1.review-mode-set1/1757448098742.png",
+        "exams/az-400/tutorialsdojo/review-mode/image/1.review-mode-set1/1757448132862.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "exams/az-400/tutorialsdojo/review-mode/image/2.review-mode-set2": {
+      "children": [
+        "exams/az-400/tutorialsdojo/review-mode/image/2.review-mode-set2/1757448694640.png",
+        "exams/az-400/tutorialsdojo/review-mode/image/2.review-mode-set2/1757453459379.png",
+        "exams/az-400/tutorialsdojo/review-mode/image/2.review-mode-set2/1757454362064.png",
+        "exams/az-400/tutorialsdojo/review-mode/image/2.review-mode-set2/1757455835591.png",
+        "exams/az-400/tutorialsdojo/review-mode/image/2.review-mode-set2/1757456393305.png",
+        "exams/az-400/tutorialsdojo/review-mode/image/2.review-mode-set2/1757458182442.png",
+        "exams/az-400/tutorialsdojo/review-mode/image/2.review-mode-set2/1757458257622.png",
+        "exams/az-400/tutorialsdojo/review-mode/image/2.review-mode-set2/1757459576413.png",
+        "exams/az-400/tutorialsdojo/review-mode/image/2.review-mode-set2/1757459981452.png",
+        "exams/az-400/tutorialsdojo/review-mode/image/2.review-mode-set2/1757460058056.png",
+        "exams/az-400/tutorialsdojo/review-mode/image/2.review-mode-set2/1757460729259.png",
+        "exams/az-400/tutorialsdojo/review-mode/image/2.review-mode-set2/1757462512766.png",
+        "exams/az-400/tutorialsdojo/review-mode/image/2.review-mode-set2/1757464078981.png",
+        "exams/az-400/tutorialsdojo/review-mode/image/2.review-mode-set2/1757464396047.png",
+        "exams/az-400/tutorialsdojo/review-mode/image/2.review-mode-set2/1757464646557.png",
+        "exams/az-400/tutorialsdojo/review-mode/image/2.review-mode-set2/1757464707601.png",
+        "exams/az-400/tutorialsdojo/review-mode/image/2.review-mode-set2/1757464911958.png",
+        "exams/az-400/tutorialsdojo/review-mode/image/2.review-mode-set2/1757464941326.png",
+        "exams/az-400/tutorialsdojo/review-mode/image/2.review-mode-set2/1757490290450.png",
+        "exams/az-400/tutorialsdojo/review-mode/image/2.review-mode-set2/1757490389521.png",
+        "exams/az-400/tutorialsdojo/review-mode/image/2.review-mode-set2/1757490665277.png",
+        "exams/az-400/tutorialsdojo/review-mode/image/2.review-mode-set2/1757490758952.png",
+        "exams/az-400/tutorialsdojo/review-mode/image/2.review-mode-set2/1757499998083.png",
+        "exams/az-400/tutorialsdojo/review-mode/image/2.review-mode-set2/1757503702320.png",
+        "exams/az-400/tutorialsdojo/review-mode/image/2.review-mode-set2/1757504162349.png",
+        "exams/az-400/tutorialsdojo/review-mode/image/2.review-mode-set2/1757504210005.png",
+        "exams/az-400/tutorialsdojo/review-mode/image/2.review-mode-set2/1757504483593.png",
+        "exams/az-400/tutorialsdojo/review-mode/image/2.review-mode-set2/1757504489929.png",
+        "exams/az-400/tutorialsdojo/review-mode/image/2.review-mode-set2/1757504505912.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "exams/az-400/tutorialsdojo/review-mode/image/3.review-mode-set3": {
+      "children": [
+        "exams/az-400/tutorialsdojo/review-mode/image/3.review-mode-set3/1757506085466.png",
+        "exams/az-400/tutorialsdojo/review-mode/image/3.review-mode-set3/1757506122381.png",
+        "exams/az-400/tutorialsdojo/review-mode/image/3.review-mode-set3/1757508393985.png",
+        "exams/az-400/tutorialsdojo/review-mode/image/3.review-mode-set3/1757508868581.png",
+        "exams/az-400/tutorialsdojo/review-mode/image/3.review-mode-set3/1757508891484.png",
+        "exams/az-400/tutorialsdojo/review-mode/image/3.review-mode-set3/1757509483215.png",
+        "exams/az-400/tutorialsdojo/review-mode/image/3.review-mode-set3/1757509533615.png",
+        "exams/az-400/tutorialsdojo/review-mode/image/3.review-mode-set3/1757510211090.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "exams/az-400/varun_sharma": {
+      "children": [
+        "exams/az-400/varun_sharma/image",
+        "exams/az-400/varun_sharma/practice-test-1.md",
+        "exams/az-400/varun_sharma/practice-test-2.md",
+        "exams/az-400/varun_sharma/practice-test-3.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "exams/az-400/varun_sharma/image": {
+      "children": [
+        "exams/az-400/varun_sharma/image/practice-test-1",
+        "exams/az-400/varun_sharma/image/practice-test-2",
+        "exams/az-400/varun_sharma/image/practice-test-3"
+      ],
+      "sortOrder": "custom"
+    },
+    "exams/az-400/varun_sharma/image/practice-test-1": {
+      "children": [
+        "exams/az-400/varun_sharma/image/practice-test-1/1756635089893.png",
+        "exams/az-400/varun_sharma/image/practice-test-1/1756636403955.png",
+        "exams/az-400/varun_sharma/image/practice-test-1/1756639978026.png",
+        "exams/az-400/varun_sharma/image/practice-test-1/1756653987829.png",
+        "exams/az-400/varun_sharma/image/practice-test-1/1756654168147.png",
+        "exams/az-400/varun_sharma/image/practice-test-1/1756654301163.png",
+        "exams/az-400/varun_sharma/image/practice-test-1/1756667201330.png",
+        "exams/az-400/varun_sharma/image/practice-test-1/1756669650941.png",
+        "exams/az-400/varun_sharma/image/practice-test-1/1756669831190.png",
+        "exams/az-400/varun_sharma/image/practice-test-1/1756670276979.png",
+        "exams/az-400/varun_sharma/image/practice-test-1/1756670951636.png",
+        "exams/az-400/varun_sharma/image/practice-test-1/1756671693141.png",
+        "exams/az-400/varun_sharma/image/practice-test-1/1756675463592.png",
+        "exams/az-400/varun_sharma/image/practice-test-1/1756675627856.png",
+        "exams/az-400/varun_sharma/image/practice-test-1/1756675716739.png",
+        "exams/az-400/varun_sharma/image/practice-test-1/1756676645159.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "exams/az-400/varun_sharma/image/practice-test-2": {
+      "children": [
+        "exams/az-400/varun_sharma/image/practice-test-2/1757273075120.png",
+        "exams/az-400/varun_sharma/image/practice-test-2/1757273119731.png",
+        "exams/az-400/varun_sharma/image/practice-test-2/1757274214449.png",
+        "exams/az-400/varun_sharma/image/practice-test-2/1757274350450.png",
+        "exams/az-400/varun_sharma/image/practice-test-2/1757325429697.png",
+        "exams/az-400/varun_sharma/image/practice-test-2/1757333392433.png",
+        "exams/az-400/varun_sharma/image/practice-test-2/1757335121289.png",
+        "exams/az-400/varun_sharma/image/practice-test-2/1757338467660.png",
+        "exams/az-400/varun_sharma/image/practice-test-2/1757338980768.png",
+        "exams/az-400/varun_sharma/image/practice-test-2/1757339622753.png",
+        "exams/az-400/varun_sharma/image/practice-test-2/1757340072468.png",
+        "exams/az-400/varun_sharma/image/practice-test-2/1757340179486.png",
+        "exams/az-400/varun_sharma/image/practice-test-2/1757340468601.png",
+        "exams/az-400/varun_sharma/image/practice-test-2/1757340892930.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "exams/az-400/varun_sharma/image/practice-test-3": {
+      "children": [
+        "exams/az-400/varun_sharma/image/practice-test-3/1757345538617.png",
+        "exams/az-400/varun_sharma/image/practice-test-3/1757347131124.png",
+        "exams/az-400/varun_sharma/image/practice-test-3/1757347776877.png",
+        "exams/az-400/varun_sharma/image/practice-test-3/1757347787503.png",
+        "exams/az-400/varun_sharma/image/practice-test-3/1757348889543.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "exams/resources": {
+      "children": [
+        "exams/resources/az-104-labs.txt",
+        "exams/resources/az-204-labs.txt",
+        "exams/resources/az-305-labs.txt",
+        "exams/resources/az-400-labs.txt",
+        "exams/resources/kodekloud-notes.md",
+        "exams/resources/README.md"
       ],
       "sortOrder": "custom"
     }

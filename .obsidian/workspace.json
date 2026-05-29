@@ -11,10 +11,14 @@
             "id": "04c2912769e39f7d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "exams/az-104/exams/varun_sharma/practise-test-3.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "practise-test-3"
             }
           }
         ]
@@ -74,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 387.5110321044922,
-    "collapsed": true
+    "width": 387.5110321044922
   },
   "right": {
     "id": "7c209669fec76014",
@@ -213,6 +216,12 @@
   },
   "active": "04c2912769e39f7d",
   "lastOpenFiles": [
+    "exams/az-104/exams/varun_sharma/practise-test-4.md",
+    "exams/az-104/exams/varun_sharma/practise-test-3.md",
+    "exams/az-104/exams/varun_sharma/practise-test-2.md",
+    "exams/az-104/exams/varun_sharma/practise-test-1.md",
+    "exams/az-104/exams/references.md",
+    "exams/az-305/references.md",
     "azure/1.management-governance/2.1.arm/1.arm.md",
     "TaskNotes/Views/relationships.base",
     "TaskNotes/Views/agenda-default.base",
@@ -254,12 +263,6 @@
     "Certificates/Nvidia/NCA-AIIO/2.Inside Data Center/Moore's law.md",
     "Certificates/Nvidia/NCA-AIIO/2.Inside Data Center/AI Centric Data Center.md",
     "Dictionary/ai-dictionary.md",
-    "Certificates/Nvidia/NCA-AIIO/1.Fundmentals/CPU vs GPU vs DPU.md",
-    "Certificates/Nvidia/NCA-AIIO/1.Fundmentals/CPU Server Systems.md",
-    "Certificates/Nvidia/NCA-AIIO/1.Fundmentals/CPU & GPU Integration.md",
-    "cpu_gpu_3_step_flow.md",
-    "2.AI Infrastructure & Operation/Introduction.md",
-    "0.Roadmap/roadmap.md",
     "Canvas/Canvas-1.canvas",
     "Canvas/Canvas-2.canvas",
     "Obsidian/Untitled.canvas",
