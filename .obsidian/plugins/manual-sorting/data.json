@@ -2,6 +2,8 @@
   "customOrder": {
     "/": {
       "children": [
+        "Dictionary",
+        "file",
         "TaskNotes",
         "azure",
         "exams",
@@ -3498,195 +3500,9 @@
       ],
       "sortOrder": "custom"
     },
-    "other": {
+    "Dictionary": {
       "children": [
-        "other/advanced-networking",
-        "other/advanced-security",
-        "other/news",
-        "other/review",
-        "other/snippet"
-      ],
-      "sortOrder": "custom"
-    },
-    "other/advanced-networking": {
-      "children": [
-        "other/advanced-networking/ha-for-vpn-gateway.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "other/advanced-security": {
-      "children": [
-        "other/advanced-security/advanced-topic"
-      ],
-      "sortOrder": "custom"
-    },
-    "other/news": {
-      "children": [
-        "other/news/top-services-for-SRE.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "other/review": {
-      "children": [
-        "other/review/images",
-        "other/review/az-free-account.md",
-        "other/review/azure-sla.md",
-        "other/review/governance-vs-complience.html",
-        "other/review/greenfield-vs-brownfield-projects.md",
-        "other/review/IaaS-PaaS-SaaS.md",
-        "other/review/idempotent.md",
-        "other/review/ip-addressing.md",
-        "other/review/protocols.md",
-        "other/review/what-is-swap.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "other/review/images": {
-      "children": [
-        "other/review/images/budget-limit-1.png",
-        "other/review/images/budget-limit-2.png",
-        "other/review/images/iaas-paas-saas.png",
-        "other/review/images/protocols.png"
-      ],
-      "sortOrder": "custom"
-    },
-    "other/snippet": {
-      "children": [
-        "other/snippet/image",
-        "other/snippet/notes-1.md",
-        "other/snippet/notes-2.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "other/snippet/image": {
-      "children": [
-        "other/snippet/image/notes-1"
-      ],
-      "sortOrder": "custom"
-    },
-    "other/snippet/image/notes-1": {
-      "children": [
-        "other/snippet/image/notes-1/1756063066656.png",
-        "other/snippet/image/notes-1/1756063287295.png",
-        "other/snippet/image/notes-1/1756063293604.png",
-        "other/snippet/image/notes-1/1756066526376.png",
-        "other/snippet/image/notes-1/1756076272731.png",
-        "other/snippet/image/notes-1/1756077752879.png",
-        "other/snippet/image/notes-1/1756077774257.png"
-      ],
-      "sortOrder": "custom"
-    },
-    "TaskNotes": {
-      "children": [
-        "TaskNotes/Views"
-      ],
-      "sortOrder": "custom"
-    },
-    "TaskNotes/Views": {
-      "children": [
-        "TaskNotes/Views/relationships.base",
-        "TaskNotes/Views/agenda-default.base",
-        "TaskNotes/Views/calendar-default.base",
-        "TaskNotes/Views/tasks-default.base",
-        "TaskNotes/Views/kanban-default.base",
-        "TaskNotes/Views/mini-calendar-default.base"
-      ],
-      "sortOrder": "custom"
-    },
-    "trash": {
-      "children": [
-        "trash/FAANG",
-        "trash/images",
-        "trash/0.cert-details.md",
-        "trash/1.1.administer-identity.md",
-        "trash/1.2.administer-covernance-compilance.md",
-        "trash/1.3.administer-azure-resources.md",
-        "trash/2.1.administer-vnet.md",
-        "trash/2.2.administer-intersite-connectivity.md",
-        "trash/2.3.administer-network-traffic.md",
-        "trash/5.1.vnet-notes.md",
-        "trash/dacpac.md",
-        "trash/itsm-connector.md",
-        "trash/windows-admin-center.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "trash/FAANG": {
-      "children": [
-        "trash/FAANG/best-path",
-        "trash/FAANG/sre",
-        "trash/FAANG/FAANG-Requirement.md",
-        "trash/FAANG/image.png"
-      ],
-      "sortOrder": "custom"
-    },
-    "trash/FAANG/best-path": {
-      "children": [
-        "trash/FAANG/best-path/1.swe-better-than-sre.md",
-        "trash/FAANG/best-path/2.swe-better-than-sre.md",
-        "trash/FAANG/best-path/3.java-vs-dotnet.md",
-        "trash/FAANG/best-path/4.java track.md",
-        "trash/FAANG/best-path/5.which-align-more.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "trash/FAANG/sre": {
-      "children": [
-        "trash/FAANG/sre/1.req.md",
-        "trash/FAANG/sre/2.sre-role.md",
-        "trash/FAANG/sre/3.sre-project-idea.md",
-        "trash/FAANG/sre/4.sre-resources.md",
-        "trash/FAANG/sre/podcast.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "trash/images": {
-      "children": [
-        "trash/images/arm-1.png",
-        "trash/images/arm-design-1.png",
-        "trash/images/arm-design-2.png",
-        "trash/images/arm-design-3.png",
-        "trash/images/arm-template.png",
-        "trash/images/arm-template-json.png",
-        "trash/images/arm-template-json-1.png",
-        "trash/images/arm-template-json-2.png",
-        "trash/images/arm-template-json-3.png",
-        "trash/images/arm-template-json-4.png",
-        "trash/images/arm-template-json-5.png",
-        "trash/images/arm-template-json-6.png",
-        "trash/images/arm-template-json-7.png",
-        "trash/images/arm-template-json-8.png",
-        "trash/images/az-tools.png",
-        "trash/images/azure-policy.png",
-        "trash/images/azure-policy-use-cases.png",
-        "trash/images/azure-rbac.png",
-        "trash/images/azure-rbac-built-in-roles.png",
-        "trash/images/azure-rbac-role-definition.png",
-        "trash/images/azure-rbac-scope.png",
-        "trash/images/azure-rbac-vs-ms-entra-id-roles-1.png",
-        "trash/images/azure-rbac-vs-ms-entra-id-roles-2.png",
-        "trash/images/azure-resource-tags.png",
-        "trash/images/azure-subs.png",
-        "trash/images/azure-subs-types.png",
-        "trash/images/bulk-operations.png",
-        "trash/images/cost-analysis.png",
-        "trash/images/cost-management.png",
-        "trash/images/cost-saving.png",
-        "trash/images/group-accounts.png",
-        "trash/images/initiative-policy.png",
-        "trash/images/management-group-hierarchy.png",
-        "trash/images/management-group-note.png",
-        "trash/images/ms-entra-id.png",
-        "trash/images/ms-entra-id-edition.png",
-        "trash/images/ms-entra-id-vs-ad.png",
-        "trash/images/multi-tenant.png",
-        "trash/images/multi-tenant-2.png",
-        "trash/images/multi-tenant-3.png",
-        "trash/images/resource-group.png",
-        "trash/images/resource-group-limit-quota.png",
-        "trash/images/resource-locks.png",
-        "trash/images/SSPR.png",
-        "trash/images/user-accounts.png"
+        "Dictionary/definitions.md"
       ],
       "sortOrder": "custom"
     },
@@ -4003,6 +3819,7 @@
     },
     "exams/az-305": {
       "children": [
+        "exams/az-305/az-305-overview.md",
         "exams/az-305/kodekloud",
         "exams/az-305/tutorialsdojo",
         "exams/az-305/references.md"
@@ -4357,6 +4174,198 @@
         "exams/resources/az-400-labs.txt",
         "exams/resources/kodekloud-notes.md",
         "exams/resources/README.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "other": {
+      "children": [
+        "other/advanced-networking",
+        "other/advanced-security",
+        "other/news",
+        "other/review",
+        "other/snippet"
+      ],
+      "sortOrder": "custom"
+    },
+    "other/advanced-networking": {
+      "children": [
+        "other/advanced-networking/ha-for-vpn-gateway.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "other/advanced-security": {
+      "children": [
+        "other/advanced-security/advanced-topic"
+      ],
+      "sortOrder": "custom"
+    },
+    "other/news": {
+      "children": [
+        "other/news/top-services-for-SRE.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "other/review": {
+      "children": [
+        "other/review/images",
+        "other/review/az-free-account.md",
+        "other/review/azure-sla.md",
+        "other/review/governance-vs-complience.html",
+        "other/review/greenfield-vs-brownfield-projects.md",
+        "other/review/IaaS-PaaS-SaaS.md",
+        "other/review/idempotent.md",
+        "other/review/ip-addressing.md",
+        "other/review/protocols.md",
+        "other/review/what-is-swap.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "other/review/images": {
+      "children": [
+        "other/review/images/budget-limit-1.png",
+        "other/review/images/budget-limit-2.png",
+        "other/review/images/iaas-paas-saas.png",
+        "other/review/images/protocols.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "other/snippet": {
+      "children": [
+        "other/snippet/image",
+        "other/snippet/notes-1.md",
+        "other/snippet/notes-2.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "other/snippet/image": {
+      "children": [
+        "other/snippet/image/notes-1"
+      ],
+      "sortOrder": "custom"
+    },
+    "other/snippet/image/notes-1": {
+      "children": [
+        "other/snippet/image/notes-1/1756063066656.png",
+        "other/snippet/image/notes-1/1756063287295.png",
+        "other/snippet/image/notes-1/1756063293604.png",
+        "other/snippet/image/notes-1/1756066526376.png",
+        "other/snippet/image/notes-1/1756076272731.png",
+        "other/snippet/image/notes-1/1756077752879.png",
+        "other/snippet/image/notes-1/1756077774257.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "TaskNotes": {
+      "children": [
+        "TaskNotes/Views"
+      ],
+      "sortOrder": "custom"
+    },
+    "TaskNotes/Views": {
+      "children": [
+        "TaskNotes/Views/relationships.base",
+        "TaskNotes/Views/agenda-default.base",
+        "TaskNotes/Views/calendar-default.base",
+        "TaskNotes/Views/tasks-default.base",
+        "TaskNotes/Views/kanban-default.base",
+        "TaskNotes/Views/mini-calendar-default.base"
+      ],
+      "sortOrder": "custom"
+    },
+    "trash": {
+      "children": [
+        "trash/FAANG",
+        "trash/images",
+        "trash/0.cert-details.md",
+        "trash/1.1.administer-identity.md",
+        "trash/1.2.administer-covernance-compilance.md",
+        "trash/1.3.administer-azure-resources.md",
+        "trash/2.1.administer-vnet.md",
+        "trash/2.2.administer-intersite-connectivity.md",
+        "trash/2.3.administer-network-traffic.md",
+        "trash/5.1.vnet-notes.md",
+        "trash/dacpac.md",
+        "trash/itsm-connector.md",
+        "trash/windows-admin-center.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "trash/FAANG": {
+      "children": [
+        "trash/FAANG/best-path",
+        "trash/FAANG/sre",
+        "trash/FAANG/FAANG-Requirement.md",
+        "trash/FAANG/image.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "trash/FAANG/best-path": {
+      "children": [
+        "trash/FAANG/best-path/1.swe-better-than-sre.md",
+        "trash/FAANG/best-path/2.swe-better-than-sre.md",
+        "trash/FAANG/best-path/3.java-vs-dotnet.md",
+        "trash/FAANG/best-path/4.java track.md",
+        "trash/FAANG/best-path/5.which-align-more.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "trash/FAANG/sre": {
+      "children": [
+        "trash/FAANG/sre/1.req.md",
+        "trash/FAANG/sre/2.sre-role.md",
+        "trash/FAANG/sre/3.sre-project-idea.md",
+        "trash/FAANG/sre/4.sre-resources.md",
+        "trash/FAANG/sre/podcast.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "trash/images": {
+      "children": [
+        "trash/images/arm-1.png",
+        "trash/images/arm-design-1.png",
+        "trash/images/arm-design-2.png",
+        "trash/images/arm-design-3.png",
+        "trash/images/arm-template.png",
+        "trash/images/arm-template-json.png",
+        "trash/images/arm-template-json-1.png",
+        "trash/images/arm-template-json-2.png",
+        "trash/images/arm-template-json-3.png",
+        "trash/images/arm-template-json-4.png",
+        "trash/images/arm-template-json-5.png",
+        "trash/images/arm-template-json-6.png",
+        "trash/images/arm-template-json-7.png",
+        "trash/images/arm-template-json-8.png",
+        "trash/images/az-tools.png",
+        "trash/images/azure-policy.png",
+        "trash/images/azure-policy-use-cases.png",
+        "trash/images/azure-rbac.png",
+        "trash/images/azure-rbac-built-in-roles.png",
+        "trash/images/azure-rbac-role-definition.png",
+        "trash/images/azure-rbac-scope.png",
+        "trash/images/azure-rbac-vs-ms-entra-id-roles-1.png",
+        "trash/images/azure-rbac-vs-ms-entra-id-roles-2.png",
+        "trash/images/azure-resource-tags.png",
+        "trash/images/azure-subs.png",
+        "trash/images/azure-subs-types.png",
+        "trash/images/bulk-operations.png",
+        "trash/images/cost-analysis.png",
+        "trash/images/cost-management.png",
+        "trash/images/cost-saving.png",
+        "trash/images/group-accounts.png",
+        "trash/images/initiative-policy.png",
+        "trash/images/management-group-hierarchy.png",
+        "trash/images/management-group-note.png",
+        "trash/images/ms-entra-id.png",
+        "trash/images/ms-entra-id-edition.png",
+        "trash/images/ms-entra-id-vs-ad.png",
+        "trash/images/multi-tenant.png",
+        "trash/images/multi-tenant-2.png",
+        "trash/images/multi-tenant-3.png",
+        "trash/images/resource-group.png",
+        "trash/images/resource-group-limit-quota.png",
+        "trash/images/resource-locks.png",
+        "trash/images/SSPR.png",
+        "trash/images/user-accounts.png"
       ],
       "sortOrder": "custom"
     }

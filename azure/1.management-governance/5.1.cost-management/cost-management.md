@@ -28,7 +28,7 @@ It’s part of the **Azure Monitor ecosystem** and integrates with billing to gi
 - **Detailed Reporting** → Costs by subscription, service, resource group, or tag.
 - **Custom Views** → Filter/group costs (e.g., by `Department` or `Project`).
 - **Time Ranges** → View daily, monthly, or yearly spend.
-- **Exporting** → Download reports in CSV/Excel for finance teams.
+- **Exporting** → Download reports in **CSV/Excel** for finance teams.
 
 ### 💡 Real Example
 
