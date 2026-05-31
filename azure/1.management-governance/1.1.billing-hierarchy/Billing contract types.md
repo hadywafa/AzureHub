@@ -1,0 +1,78 @@
+# Billing contract types
+
+## References
+
+- https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/view-all-accounts
+- https://learn.microsoft.com/en-us/microsoft-365/commerce/manage-billing-accounts?view=o365-worldwide
+
+---
+
+## Billing contract types
+
+Microsoft has several types of billing accounts, each with a slightly different experience. The three main ones:
+
+### 1. **Microsoft Online Services Program (Pay-As-You-Go)** (MOSP)
+
+![[Billing hierarchy-1780257075340.webp]]
+
+| Scope           | Definition                                                                                                                                                                     |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Billing account | Represents an agreement that a customer accepts to use Azure. It contains one or more subscriptions.                                                                           |
+| Subscription    | Represents a grouping of Azure resources. Invoice is generated at this scope. Other billing information such as payment methods and usage address is associated to this scope. |
+|                 |                                                                                                                                                                                |
+
+- The simplest is **MOSP (Pay-As-You-Go)** — credit card, no contract, but the most expensive per-unit.
+
+### 2. **Enterprise Agreement** (EA)
+
+![[Billing hierarchy-1780257554851.webp]]
+
+| Scope           | Definition                                                                                                                                     |
+| --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| Billing account | Represents an Enterprise Agreement enrollment. It contains one or more departments and accounts. Invoice is generated at this scope.           |
+| Department      | Optional grouping of accounts to segment costs into logical groupings and set budget.                                                          |
+| Account         | Represents a single account owner. Account owners have permissions to create and manage Azure subscriptions that are billed to the enrollment. |
+|                 |                                                                                                                                                |
+
+- the billing scopes are:
+    - Billing Account (the enrollment itself) → Departments → Enrollment Accounts → Subscriptions.
+- This is what large orgs like telecoms typically sign — a 3-year committed spend deal with Microsoft directly.
+
+### 3. **Microsoft Customer Agreement** (MCA)
+
+![[Billing hierarchy-1780257705530.webp]]
+
+| Scope           | Tasks                                                                                                                                                                 |
+| --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Billing account | Represents an agreement that a customer accepts to use Microsoft products and services. It contains one or more billing profiles.                                     |
+| Billing profile | Represents an invoice and the related billing information such as payment methods and billing address. It contains one or more invoice sections.                      |
+| Invoice section | Represents a grouping of costs in an invoice. Azure subscriptions and other purchases such as Azure Marketplace and App source products are associated to this scope. |
+
+- the billing account is the contract with Microsoft.
+- Below it sits the Billing Profile, which is the actual invoicing unit (one invoice per billing profile per month, with its own PO number).
+- Below that are Invoice Sections, which subdivide spend by team or project as subtotals on the same invoice.
+- Below the Invoice Section sits the Azure subscription.
+
+### 4. **Microsoft Partner Agreement** (MPA)
+
+![[Billing hierarchy-1780257839890.webp]]
+
+| Scope           | Tasks                                                                                                                                                                                      |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Billing account | Represents a partner agreement to manage customers' Microsoft products and services in the new commerce experience. It contains one or more billing profiles and customers.                |
+| Billing profile | Represents an invoice for a currency.                                                                                                                                                      |
+| Customer        | Represents a customer for a Cloud Solution Provider (CSP) partner. Azure subscriptions and other purchases such as Azure Marketplace and App source products are associated to this scope. |
+| Reseller        | Reseller that provides services to a customer. It's an optional field for a subscription and is applicable only for Indirect providers in the CSP two-tier model.                          |
+
+- scopes are Billing Account → Billing Profile → Customer → Subscriptions.
+- You buy through a partner who manages billing and support on your behalf.
+
+---
+
+---
+
+> **The critical difference from AWS** (since you work on AKS): AWS accounts are fully isolated billing and IAM boundaries. Azure subscriptions are billing boundaries, but all identity still flows through one Entra ID tenant. So in Azure, your 10 different subscriptions (dev, prod, UAT…) all share the same Entra ID for user authentication — you manage users once, then control what they can do per subscription via RBAC.
+
+---
+
+> For e&'s context, you're almost certainly on an **EA** agreement (standard for telcos of that size), which means the internal structure your finance team sees is Enrollment → Departments → Enrollment Accounts → Subscriptions — and your AKS/DevOps work lives at the subscription or resource group level below that.
