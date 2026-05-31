@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-03-24.md",
+                "file": "azure/2.identity/1.1.entra-id-overview/6.1.administrative-unites.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-24"
+              "title": "6.1.administrative-unites"
             }
           }
         ]
@@ -36,7 +36,7 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical",
+            "sortOrder": "custom",
             "autoReveal": false
           },
           "icon": "lucide-folder-closed",
@@ -100,7 +100,8 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 0,
+    "pinned": true
   },
   "right": {
     "id": "fbc89093c8a610c6",
@@ -112,7 +113,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Untitled.canvas",
+            "file": "azure/2.identity/1.1.entra-id-overview/6.1.administrative-unites.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -172,16 +173,35 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-kanban:Create new board": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "tasknotes:Open mini calendar view": false,
+      "tasknotes:Open calendar view": false,
+      "tasknotes:Open tasks view": false,
+      "tasknotes:Open agenda view": false,
+      "tasknotes:Open kanban board": false,
+      "tasknotes:Open pomodoro timer": false,
+      "tasknotes:Open pomodoro statistics": false,
+      "tasknotes:Create new task": false
     }
   },
   "active": "43812f12d565ccc9",
   "lastOpenFiles": [
+    "azure/2.identity/1.1.entra-id-overview/5.entra-id-identities.md",
+    "azure/2.identity/1.1.entra-id-overview/4.entra-id-license.md",
+    "azure/2.identity/1.1.entra-id-overview/3.subscriptions.md",
+    "azure/2.identity/1.1.entra-id-overview/2.3.entra-id-custom-domain.md",
+    "azure/2.identity/1.1.entra-id-overview/2.2.entra-id-multi-tenant.md",
+    "azure/2.identity/1.1.entra-id-overview/2.1.tenant.md",
+    "azure/2.identity/1.1.entra-id-overview/1.3.entra-id-portals.md",
+    "azure/2.identity/1.1.entra-id-overview/1.2.entra-Id-overview.md",
+    "azure/2.identity/1.1.entra-id-overview/1.1.entra-id-introduction.md",
+    "azure/2.identity/1.3.entra-id-extended-services/1.entra-connect.md",
+    "azure/1.management-governance/5.2.advisor/advisor.md",
     "Canvas.canvas",
     "Excalidraw/Drawing 2026-03-24 04.41.43.excalidraw.md",
     "2026-03-24.md",
