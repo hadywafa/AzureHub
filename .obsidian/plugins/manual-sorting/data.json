@@ -50,9 +50,10 @@
     },
     "azure/1.management-governance/1.1.billing-hierarchy": {
       "children": [
+        "azure/1.management-governance/1.1.billing-hierarchy/notes.md",
         "azure/1.management-governance/1.1.billing-hierarchy/images",
-        "azure/1.management-governance/1.1.billing-hierarchy/Azure Billing hierarchy.md",
-        "azure/1.management-governance/1.1.billing-hierarchy/Billing contract types.md"
+        "azure/1.management-governance/1.1.billing-hierarchy/2.Azure Billing hierarchy.md",
+        "azure/1.management-governance/1.1.billing-hierarchy/1.Billing contract types.md"
       ],
       "sortOrder": "custom"
     },

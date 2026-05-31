@@ -11,12 +11,14 @@
             "id": "c3a5cbcd986aeec4",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "other/Labs/images/_notes-1780253175714.webp"
+                "file": "azure/1.management-governance/1.1.billing-hierarchy/notes.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "_notes-1780253175714"
+              "icon": "lucide-file",
+              "title": "notes"
             }
           }
         ]
@@ -212,15 +214,18 @@
       "tasknotes:Create new task": false
     }
   },
-  "active": "fc7e321c07a48c53",
+  "active": "c3a5cbcd986aeec4",
   "lastOpenFiles": [
+    "azure/1.management-governance/1.1.billing-hierarchy/1.Billing contract types.md",
+    "azure/1.management-governance/1.1.billing-hierarchy/notes.md",
+    "azure/1.management-governance/1.1.billing-hierarchy/2.Azure Billing hierarchy.md",
+    "other/Labs/images/_notes-1780253175714.webp",
     "other/Labs/Microsoft 365 Business Basic.md",
     "other/Labs/Untitled.md",
     "other/Labs/images",
     "other/Labs/architectures.md",
     "other/Labs/_secret.md",
     "other/Labs/_notes.md",
-    "other/Labs/images/_notes-1780253175714.webp",
     "other/Labs/images/notes-1780243627059.webp",
     "other/Labs/images/notes-1780227602027.webp",
     "other/Labs/images/notes-1780222215623.webp",
@@ -231,8 +236,6 @@
     "azure/1.management-governance/1.1.billing-hierarchy/images/billing-account-1780254996031.webp",
     "azure/1.management-governance/1.1.billing-hierarchy/images",
     "azure/1.management-governance/1.1.billing-hierarchy/images/Billing hierarchy-1780256181913.webp",
-    "azure/1.management-governance/1.1.billing-hierarchy/Billing contract types.md",
-    "azure/1.management-governance/1.1.billing-hierarchy/Azure Billing hierarchy.md",
     "README.md",
     "azure/1.management-governance/5.1.cost-management/cost-management.md",
     "azure/1.management-governance/5.1.cost-management/notes.md",
