@@ -1,4 +1,4 @@
-# Billing Notes
+# 🆚 Billing Notes
 
 ## Note 1
 
@@ -196,13 +196,9 @@ inside Entra ID, then:
 ### The user CAN
 
 ✅ Sign in to Azure Portal
-
 ✅ Sign in to Entra Admin Center
-
 ✅ Sign in to Enterprise Applications
-
 ✅ Sign in to applications federated with Entra ID
-
 ✅ Use Azure resources if assigned RBAC permissions
 
 ---
@@ -210,11 +206,8 @@ inside Entra ID, then:
 ### The user CANNOT
 
 ❌ Send emails
-
 ❌ Receive emails
-
 ❌ Log into Outlook Mail
-
 ❌ Have a mailbox
 
 unless you purchase an email service.

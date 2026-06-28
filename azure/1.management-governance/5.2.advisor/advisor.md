@@ -4,11 +4,11 @@
 >
 > It continuously analyzes your Azure environment and provides personalized recommendations to:
 >
-> - Reduce Cost 💰
-> - Improve Reliability 🛡️
-> - Increase Security 🔒
-> - Boost Performance 🚀
-> - Improve Operational Excellence ⚙️
+> - 💰 Reduce Cost
+> - 🛡️ Improve Reliability
+> - 🔒 Increase Security
+> - 🚀 Boost Performance
+> - ⚙️ Improve Operational Excellence
 
 Think of it as:
 
@@ -437,23 +437,23 @@ Microsoft commonly asks:
 ```text
 Azure Monitor
       ↓
-Collect
+	Collect
 
 Log Analytics
       ↓
-Store
+	Store
 
 Application Insights
       ↓
-Analyze Apps
+	Analyze Apps
 
 Defender for Cloud
       ↓
-Secure
+	Secure
 
 Azure Advisor
       ↓
-Recommend
+	Recommend
 ```
 
 ### One-line exam memory trick

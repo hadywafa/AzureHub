@@ -132,40 +132,31 @@ Advisor finds:
 ## 🏆 **Best Practices**
 
 1. **Tag Everything**
-
-   - Enables reporting per team/project.
+    - Enables reporting per team/project.
 
 2. **Review Costs Regularly**
-
-   - Weekly/monthly reports catch anomalies early.
+    - Weekly/monthly reports catch anomalies early.
 
 3. **Set Budgets + Alerts**
-
-   - Proactive financial control.
+    - Proactive financial control.
 
 4. **Leverage Advisor**
-
-   - Free cost optimization insights.
+    - Free cost optimization insights.
 
 5. **Use Reserved Instances / Savings Plans**
-
-   - Commit for long-term workloads → big discounts.
+    - Commit for long-term workloads → big discounts.
 
 6. **Enable Auto-Scaling**
-
-   - Scale up when needed, scale down when not.
+    - Scale up when needed, scale down when not.
 
 7. **Optimize Storage**
-
-   - Cold data → Archive tier, save massively.
+    - Cold data → Archive tier, save massively.
 
 8. **Remove Unused Resources**
-
-   - Dev/test leftovers often eat budgets.
+    - Dev/test leftovers often eat budgets.
 
 9. **Educate Teams**
-
-   - Build a **cost-aware culture**.
+    - Build a **cost-aware culture**.
 
 10. **Automate Governance**
 
@@ -188,7 +179,7 @@ flowchart LR
 
 ---
 
-## ⚖️ **Cost Management** 🆚 **Pricing Calculator** 🆚 **Advisor**
+## 🆚 **Cost Management** 🆚 **Pricing Calculator** 🆚 **Advisor**
 
 | Feature / Tool   | **Azure Cost Management**                                | **Azure Pricing Calculator**                                   | **Azure Advisor**                                                         |
 | ---------------- | -------------------------------------------------------- | -------------------------------------------------------------- | ------------------------------------------------------------------------- |
@@ -215,16 +206,13 @@ flowchart LR
 ## 💡 Example Walkthrough
 
 - A company is **planning** to migrate 20 on-prem VMs to Azure.
-
-  - Use **Pricing Calculator** to estimate monthly cost.
+    - Use **Pricing Calculator** to estimate monthly cost.
 
 - After migration, the finance team wants to see actual usage.
-
-  - Use **Cost Management → Cost Analysis** to track real spend.
+    - Use **Cost Management → Cost Analysis** to track real spend.
 
 - Then the DevOps team notices one VM always runs at 5% CPU.
-
-  - Use **Advisor** to downsize the VM → cost savings.
+    - Use **Advisor** to downsize the VM → cost savings.
 
 ---
 

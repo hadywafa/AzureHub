@@ -23,8 +23,6 @@ Imagine a **security camera system** 🎥:
 
 ## 🧩 Architecture Overview
 
-<div align="center" style="background-color: #000; border-radius: 20px; border: solid">
-
 ```mermaid
 ---
 config:
@@ -35,8 +33,6 @@ flowchart LR
     B -->|Filtered + Aggregated Data| C[Power BI / Azure SQL / Data Lake / Cosmos DB]
 ```
 
-</div>
-
 ---
 
 ## ⚔️ ASA vs Apache Products
@@ -44,8 +40,6 @@ flowchart LR
 Azure Stream Analytics (ASA) most closely resembles **Apache Flink**, **Apache Storm** and **Apache Spark Streaming** but with a simplified, serverless experience. Here's how they compare:
 
 ### 🔍 ASA vs Apache Flink
-
-<div align="center" style="background-color: #000; border-radius: 20px; border: solid">
 
 | Feature         | Azure Stream Analytics                   | Apache Flink                                        |
 | --------------- | ---------------------------------------- | --------------------------------------------------- |
@@ -57,15 +51,11 @@ Azure Stream Analytics (ASA) most closely resembles **Apache Flink**, **Apache S
 | ML Integration  | Azure ML scoring                         | Custom ML via libraries                             |
 | Fault Tolerance | Built-in                                 | Requires setup (e.g., checkpoints)                  |
 
-</div>
-
 **ASA is like Flink-lite**: it handles many of the same tasks (windowing, joins, real-time processing), but abstracts away the complexity of cluster management and coding.
 
 ---
 
 ### 🔍 ASA vs Apache Storm
-
-<div align="center" style="background-color: #000; border-radius: 20px; border: solid">
 
 | Feature      | Azure Stream Analytics     | Apache Storm                           |
 | ------------ | -------------------------- | -------------------------------------- |
@@ -74,15 +64,11 @@ Azure Stream Analytics (ASA) most closely resembles **Apache Flink**, **Apache S
 | Complexity   | Low (no infra to manage)   | High (manual scaling, fault tolerance) |
 | Use Case     | Simple real-time analytics | Custom stream processing logic         |
 
-</div>
-
 Storm is more low-level and flexible, but ASA is easier to use and integrates tightly with Azure services.
 
 ---
 
 ### 🔍 Azure Stream Analytics vs Apache Spark Streaming
-
-<div align="center" style="background-color: #000; border-radius: 20px; border: solid">
 
 | Feature                 | **Azure Stream Analytics**            | **Apache Spark Streaming**                       |
 | ----------------------- | ------------------------------------- | ------------------------------------------------ |
@@ -96,8 +82,6 @@ Storm is more low-level and flexible, but ASA is easier to use and integrates ti
 | **Fault Tolerance**     | Built-in, abstracted                  | Requires checkpointing and recovery setup        |
 | **Ease of Use**         | Very high (no infra, declarative SQL) | Moderate to complex (code + infra)               |
 | **Use Case Fit**        | Real-time dashboards, alerts, IoT     | Complex ETL, ML, multi-source joins              |
-
-</div>
 
 ---
 
@@ -224,19 +208,18 @@ You want to:
 - Go to **Azure Portal → Event Hubs → Create**
 - Devices send events (JSON) like:
 
-  ```json
-  { "deviceId": "Sensor1", "temperature": 55, "timestamp": "2025-10-09T10:00:00Z" }
-  ```
+    ```json
+    { "deviceId": "Sensor1", "temperature": 55, "timestamp": "2025-10-09T10:00:00Z" }
+    ```
 
 #### 2️⃣ Create Azure Stream Analytics Job
 
 - Portal → **Create Resource → Stream Analytics Job**
 - Set:
-
-  - **Job Name:** `temperature-monitor`
-  - **Streaming Units (SU):** 3 (default)
-  - **Hosting:** Cloud or Edge
-  - Click **Review + Create**
+    - **Job Name:** `temperature-monitor`
+    - **Streaming Units (SU):** 3 (default)
+    - **Hosting:** Cloud or Edge
+    - Click **Review + Create**
 
 #### 3️⃣ Add Input
 
