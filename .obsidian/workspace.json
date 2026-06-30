@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "azure/15.backup-and-site-recovery/2.3.backup-azure-app-service.md",
+                "file": "azure/8.databases/1.azure-sql/2.sql-server-on-azure-vm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.3.backup-azure-app-service"
+              "title": "2.sql-server-on-azure-vm"
             }
           }
         ]
@@ -216,6 +216,9 @@
   },
   "active": "c3a5cbcd986aeec4",
   "lastOpenFiles": [
+    "azure/8.databases/1.azure-sql/1.2.pricing-and-tiers-models.md",
+    "azure/8.databases/1.azure-sql/1.1.azure-sql-overview.md",
+    "azure/15.backup-and-site-recovery/2.3.backup-azure-app-service.md",
     "azure/15.backup-and-site-recovery/2.2.azure-data-backup-demos.md",
     "azure/15.backup-and-site-recovery/2.1.azure-backup-overview.md",
     "azure/15.backup-and-site-recovery/1.backup-vs-site-recovery.md",
@@ -240,9 +243,6 @@
     "azure/8.databases/4.cosmos-db/10.2.hands-on-crud.md",
     "azure/8.databases/4.cosmos-db/10.1.hands-on-get-started.md",
     "azure/8.databases/4.cosmos-db/9.cosmosdb-dotnet-sdk.md",
-    "azure/8.databases/4.cosmos-db/8.cosmosdb-intergrations.md",
-    "azure/8.databases/4.cosmos-db/7.cosmosdb-monitoring.md",
-    "azure/8.databases/4.cosmos-db/6.cosmosdb-security.md",
     "exams/az-305/skill-up/images/skill-up-1780503122807.webp",
     "exams/az-305/skill-up/images/skill-up-1780503169101.webp",
     "exams/az-305/skill-up/images/skill-up-1780503205036.webp",
