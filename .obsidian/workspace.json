@@ -216,6 +216,7 @@
   },
   "active": "c3a5cbcd986aeec4",
   "lastOpenFiles": [
+    "exams/az-305/Notes.md",
     "azure/8.databases/1.azure-sql/1.2.pricing-and-tiers-models.md",
     "azure/8.databases/1.azure-sql/1.1.azure-sql-overview.md",
     "azure/15.backup-and-site-recovery/2.3.backup-azure-app-service.md",
@@ -242,7 +243,6 @@
     "azure/8.databases/4.cosmos-db/10.3.hands-on-sp.md",
     "azure/8.databases/4.cosmos-db/10.2.hands-on-crud.md",
     "azure/8.databases/4.cosmos-db/10.1.hands-on-get-started.md",
-    "azure/8.databases/4.cosmos-db/9.cosmosdb-dotnet-sdk.md",
     "exams/az-305/skill-up/images/skill-up-1780503122807.webp",
     "exams/az-305/skill-up/images/skill-up-1780503169101.webp",
     "exams/az-305/skill-up/images/skill-up-1780503205036.webp",
