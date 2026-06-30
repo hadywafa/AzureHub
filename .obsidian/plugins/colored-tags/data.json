@@ -10,7 +10,19 @@
     "highTextContrast": false
   },
   "knownTags": {
-    "azure": 1
+    "azure": 1,
+    "billing": 2,
+    "csp": 3,
+    "ea": 4,
+    "entra-id": 5,
+    "management-groups": 6,
+    "mca": 7,
+    "microsoft": 8,
+    "microsoft-365": 9,
+    "mosp": 10,
+    "rbac": 11,
+    "resource-groups": 12,
+    "subscriptions": 13
   },
   "tagColors": {},
   "_version": 4
