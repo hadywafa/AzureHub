@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "azure/2.identity/1.1.entra-id-overview/6.1.administrative-unites.md",
+                "file": "exams/az-305/tutorialsdojo/diagnostic-tests/1.time-mode-diagnostic-test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6.1.administrative-unites"
+              "title": "1.time-mode-diagnostic-test"
+            }
+          },
+          {
+            "id": "9c886cb706906165",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "exams/az-305/Notes.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Notes"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +128,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "azure/2.identity/1.1.entra-id-overview/6.1.administrative-unites.md",
+            "file": "azure/1.management-governance/1.1.billing-hierarchy/2.Azure Billing hierarchy.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -189,8 +204,43 @@
       "tasknotes:Create new task": false
     }
   },
-  "active": "43812f12d565ccc9",
+  "active": "4d3baf9db735def6",
   "lastOpenFiles": [
+    "exams/az-305/tutorialsdojo/diagnostic-tests/1.time-mode-diagnostic-test.md",
+    "exams/az-305/Notes.md",
+    "exams/az-305/az-305-overview.md",
+    "azure/8.databases/1.azure-sql/2.sql-server-on-azure-vm.md",
+    "azure/8.databases/1.azure-sql/1.2.pricing-and-tiers-models.md",
+    "azure/8.databases/1.azure-sql/1.1.azure-sql-overview.md",
+    "azure/8.databases/1.azure-sql/3.azure-sql-managed-instance.md",
+    "exams/az-305/skill-up/images/skill-up-1780500688819.webp",
+    "exams/az-305/skill-up/images/skill-up-1780501981588.webp",
+    "exams/az-305/skill-up/images/skill-up-1780500905461.webp",
+    "exams/az-305/skill-up/images/skill-up-1780503310036.webp",
+    "exams/az-305/skill-up/images/skill-up-1780503046678.webp",
+    "exams/az-305/skill-up/images/skill-up-1780502612743.webp",
+    "exams/az-305/skill-up/images/skill-up-1780501836118.webp",
+    "exams/az-305/skill-up/images/skill-up-1780502462367.webp",
+    "exams/az-305/skill-up/images/skill-up-1780501449612.webp",
+    "exams/az-305/skill-up/images/skill-up-1780502731156.webp",
+    "exams/az-305/skill-up/skill-up.md",
+    "exams/az-305/skill-up/images",
+    "exams/az-305/skill-up",
+    "azure/1.management-governance/1.1.billing-hierarchy/2.Azure Billing hierarchy.md",
+    "azure/1.management-governance/1.1.billing-hierarchy/1.Billing contract types.md",
+    "azure/2.identity/1.1.entra-id-overview/6.1.administrative-unites.md",
+    "other/Labs/Microsoft 365 Business Basic.md",
+    "other/Labs/_notes.md",
+    "other/Labs/images",
+    "other/Labs/architectures.md",
+    "other/Labs",
+    "azure/1.management-governance/5.1.cost-management/notes.md",
+    "azure/1.management-governance/1.1.billing-hierarchy/notes.md",
+    "azure/1.management-governance/1.1.billing-hierarchy/images",
+    "azure/1.management-governance/1.1.billing-hierarchy",
+    "azure/2.identity/1.2.entra-id-identities/1..user-identity/image",
+    "azure/2.identity/1.2.entra-id-identities/1..user-identity/1.user-identities.md",
+    "azure/2.identity/1.2.entra-id-identities/1..user-identity",
     "azure/2.identity/1.1.entra-id-overview/5.entra-id-identities.md",
     "azure/2.identity/1.1.entra-id-overview/4.entra-id-license.md",
     "azure/2.identity/1.1.entra-id-overview/3.subscriptions.md",
@@ -200,11 +250,7 @@
     "azure/2.identity/1.1.entra-id-overview/1.3.entra-id-portals.md",
     "azure/2.identity/1.1.entra-id-overview/1.2.entra-Id-overview.md",
     "azure/2.identity/1.1.entra-id-overview/1.1.entra-id-introduction.md",
-    "azure/2.identity/1.3.entra-id-extended-services/1.entra-connect.md",
-    "azure/1.management-governance/5.2.advisor/advisor.md",
     "Canvas.canvas",
-    "Excalidraw/Drawing 2026-03-24 04.41.43.excalidraw.md",
-    "2026-03-24.md",
     "Excalidraw",
     "Untitled.canvas",
     "Untitled.base"
